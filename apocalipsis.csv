@@ -1,0 +1,1001 @@
+Periodo,Evento_Catastrofico,Probabilidad_Estimada_%,Region_Afectada,Nivel_Amenaza,Perdidas_Economicas_Millones,Numero_Victimas,Tiempo_Recuperacion_Periodo,Cambio_Temperatura_Global_C,Perdida_Biodiversidad_%,Colapso_Infraestructural_%,Impacto_Civilizacion
+2033,Megaterremoto,2.04,Africa,10,9458135,651259869,31,1.24,74.24,61.89,Medio
+2029,Inestabilidad economica global,53.07,Asia,5,3589526,935341533,22,1.38,89.18,42.21,Bajo
+2050,Guerra nuclear,13.52,Europa,10,2688109,423262876,21,2.07,16.28,48.99,Extincion
+2040,Tormenta solar masiva,92.48,Europa,5,5817551,913376222,98,3.78,60.62,79.33,Extincion
+2037,Impacto de asteroide,30.65,America del Norte,10,6918776,68101479,93,0.32,0.37,58.47,Medio
+2037,Inteligencia artificial descontrolada,80.58,Global,4,6705395,162977447,16,2.63,41.33,97.78,Extincion
+2026,Impacto de asteroide,78.47,Africa,6,2580009,246729738,66,-0.04,52.7,25.19,Medio
+2029,Erupcion supervolcan,59.73,Global,5,4855146,476286841,30,-1.64,4.29,33.89,Bajo
+2041,Inestabilidad economica global,85.08,Africa,2,4892471,76827339,16,2.9,58.33,64.08,Medio
+2041,Colapso climatico,19.56,Europa,9,1734297,951347944,69,-1.75,6.11,92.15,Alto
+2031,Inestabilidad economica global,88.52,Europa,2,5490793,390585699,88,4.09,52.39,88.13,Bajo
+2043,Colapso climatico,48.11,Oceania,1,6763227,650091991,33,1.14,67.2,39.12,Alto
+2027,Impacto de asteroide,78.33,Europa,5,8007405,307222926,56,0.06,80.69,62.18,Medio
+2037,Inteligencia artificial descontrolada,60.87,Sudamerica,7,7117139,625697745,87,-0.24,34.38,17.55,Alto
+2033,Inestabilidad economica global,60.51,Sudamerica,10,66760,219971112,38,-0.46,41.35,66.28,Medio
+2046,Guerra nuclear,93.68,Europa,10,4997030,867540611,4,1.04,62.44,44.14,Alto
+2029,Colapso climatico,38.88,Oceania,3,8794082,305981434,43,1.82,18.92,42.83,Bajo
+2049,Inteligencia artificial descontrolada,49.76,Global,9,4413427,329271125,35,-0.26,37.09,91.33,Medio
+2025,Impacto de asteroide,77.18,America del Norte,3,3527643,641000715,23,3.87,13.09,74.32,Bajo
+2026,Pandemia global,99.68,Europa,1,4472267,440719264,63,1.82,73.28,31.0,Medio
+2050,Inestabilidad economica global,52.39,Sudamerica,2,4350454,923326392,67,2.12,12.94,26.5,Medio
+2038,Colapso climatico,0.94,America del Norte,10,2271385,930759458,91,-0.18,46.5,46.72,Extincion
+2047,Inteligencia artificial descontrolada,97.08,America del Norte,10,1613646,748582648,57,0.64,18.7,59.26,Alto
+2036,Inestabilidad economica global,7.11,Sudamerica,6,5370883,941474208,74,-1.17,15.6,54.7,Medio
+2042,Guerra nuclear,11.44,Asia,3,8916635,971071341,35,4.98,28.2,1.62,Bajo
+2032,Inestabilidad economica global,69.1,Europa,10,9907179,3016213,71,4.08,44.95,85.88,Medio
+2047,Inestabilidad economica global,55.34,Oceania,2,7235184,120919477,31,3.19,68.29,3.19,Alto
+2027,Pandemia global,67.21,Africa,10,2321321,178708753,66,-0.59,41.66,57.5,Bajo
+2044,Colapso climatico,62.9,Africa,10,5340543,167307762,28,0.5,59.78,32.84,Alto
+2037,Inteligencia artificial descontrolada,5.52,America del Norte,6,918458,697255712,15,3.25,33.44,86.55,Extincion
+2036,Fallo de la biosfera,37.19,Africa,7,4829258,70615190,24,0.76,71.47,95.94,Medio
+2029,Guerra nuclear,13.46,America del Norte,8,8435996,348593338,93,0.72,24.48,50.54,Extincion
+2038,Impacto de asteroide,41.8,Sudamerica,2,5046998,648407611,1,3.53,23.71,73.56,Medio
+2027,Tormenta solar masiva,17.54,Sudamerica,2,4142792,161386475,90,-0.15,53.82,85.68,Medio
+2048,Colapso climatico,91.47,Sudamerica,8,4894552,398646963,26,4.12,89.12,69.39,Bajo
+2029,Inteligencia artificial descontrolada,7.28,Global,5,1557724,377826540,69,-1.89,34.9,67.59,Bajo
+2050,Pandemia global,70.6,Sudamerica,7,8294379,434538102,14,3.93,29.0,18.44,Medio
+2044,Megaterremoto,67.6,Africa,4,6794743,464660746,93,3.03,70.6,71.47,Extincion
+2047,Erupcion supervolcan,88.97,Africa,6,6239859,776418963,63,4.4,48.94,24.66,Medio
+2028,Guerra nuclear,99.36,Oceania,5,2648256,862089927,76,1.76,50.23,22.95,Medio
+2025,Colapso climatico,81.48,Africa,9,5933661,75636696,49,-1.1,36.09,6.05,Alto
+2030,Inestabilidad economica global,99.05,Europa,9,891905,624364291,56,1.87,47.49,87.6,Alto
+2050,Fallo de la biosfera,79.74,Asia,2,5850301,200167364,24,3.6,8.65,12.13,Extincion
+2045,Erupcion supervolcan,96.97,Europa,9,865384,376763208,69,1.69,49.82,51.2,Bajo
+2048,Megaterremoto,0.68,America del Norte,2,9267749,887155559,51,2.41,24.87,88.08,Extincion
+2026,Pandemia global,16.57,Sudamerica,7,8866267,136712107,40,4.21,86.47,17.81,Medio
+2028,Inteligencia artificial descontrolada,25.07,Asia,4,7965983,611272258,1,3.4,13.53,83.5,Bajo
+2042,Inestabilidad economica global,94.08,Asia,5,587279,742871011,39,1.15,29.56,67.18,Bajo
+2047,Fallo de la biosfera,3.87,Asia,4,726155,409353074,37,3.86,45.18,91.69,Medio
+2045,Megaterremoto,79.52,Global,7,8498166,666792870,51,0.18,55.16,78.28,Medio
+2046,Megaterremoto,55.32,Asia,6,5820217,228887816,40,4.08,21.86,75.97,Bajo
+2034,Megaterremoto,20.52,Asia,4,3107041,163725509,55,-1.64,41.31,4.46,Extincion
+2037,Guerra nuclear,40.17,Europa,5,3934821,858523167,58,2.25,69.42,49.15,Medio
+2028,Erupcion supervolcan,75.64,Oceania,6,169009,706190970,5,3.49,86.02,17.64,Extincion
+2047,Guerra nuclear,72.67,America del Norte,7,8508882,25344520,38,0.73,6.13,81.63,Medio
+2029,Fallo de la biosfera,63.18,Africa,6,6843108,325931816,68,1.6,33.07,40.92,Alto
+2049,Tormenta solar masiva,56.9,Asia,7,2868453,397068362,24,2.21,38.81,80.71,Extincion
+2029,Fallo de la biosfera,42.98,Africa,6,6654620,348282061,53,1.95,55.74,19.39,Bajo
+2040,Inteligencia artificial descontrolada,23.76,Sudamerica,2,262315,965234475,68,-0.06,58.72,80.12,Extincion
+2045,Guerra nuclear,90.66,Sudamerica,8,4319808,283458975,9,2.29,68.43,33.22,Medio
+2044,Tormenta solar masiva,69.56,Europa,8,9781443,348162518,49,1.94,56.77,47.88,Bajo
+2035,Tormenta solar masiva,3.21,Oceania,1,6332601,982480323,9,-0.94,44.79,36.86,Bajo
+2027,Inestabilidad economica global,16.51,Sudamerica,9,5908856,287458910,59,-0.54,9.34,36.46,Medio
+2028,Inestabilidad economica global,76.23,Global,9,9474087,540139524,8,-0.61,15.82,5.16,Extincion
+2036,Guerra nuclear,77.52,America del Norte,5,7447805,498478087,75,4.4,50.76,5.54,Medio
+2031,Inteligencia artificial descontrolada,42.63,Oceania,8,8876257,670213864,96,-0.93,0.12,6.28,Medio
+2026,Pandemia global,0.78,Asia,5,3225215,407929679,54,3.08,4.18,49.34,Alto
+2027,Megaterremoto,49.72,Global,2,8362799,206787286,76,-1.31,20.0,84.55,Medio
+2047,Megaterremoto,93.33,America del Norte,10,6753424,532635503,85,4.19,58.97,92.99,Medio
+2026,Colapso climatico,32.04,Africa,3,8894950,87519914,82,-0.04,80.12,0.37,Bajo
+2041,Guerra nuclear,47.52,Sudamerica,4,6033168,850945187,15,2.11,69.88,89.5,Medio
+2038,Inestabilidad economica global,42.2,Sudamerica,1,5583586,290654368,89,-1.83,40.96,2.16,Bajo
+2033,Guerra nuclear,16.39,Sudamerica,1,2975691,898635660,73,1.37,32.82,27.28,Alto
+2032,Tormenta solar masiva,53.92,Africa,5,2987917,981318650,77,-0.81,11.3,10.75,Alto
+2039,Tormenta solar masiva,52.51,Asia,9,3171069,755041196,72,0.27,8.51,52.65,Medio
+2050,Erupcion supervolcan,7.86,Europa,9,5965540,50771168,92,3.29,77.92,93.39,Extincion
+2049,Impacto de asteroide,2.71,Sudamerica,3,6211966,274338195,3,1.49,77.81,24.51,Extincion
+2043,Inestabilidad economica global,25.75,Asia,9,8946968,970504184,82,-0.14,64.8,59.01,Extincion
+2042,Colapso climatico,75.48,Sudamerica,8,5620950,482626861,19,2.33,9.83,96.59,Extincion
+2027,Fallo de la biosfera,83.22,America del Norte,8,1105255,156969438,98,-0.34,67.82,35.81,Extincion
+2030,Tormenta solar masiva,96.04,America del Norte,8,1922468,425603718,78,-0.38,59.7,32.0,Alto
+2027,Fallo de la biosfera,49.15,Asia,9,4063262,74853597,42,3.61,62.69,54.61,Medio
+2035,Erupcion supervolcan,40.76,Global,4,7314914,864114706,22,1.91,42.18,57.2,Bajo
+2044,Impacto de asteroide,56.58,America del Norte,2,6486592,718185579,60,2.88,80.5,73.15,Bajo
+2036,Guerra nuclear,58.32,Africa,5,704692,448325797,44,-0.25,52.68,73.94,Alto
+2041,Fallo de la biosfera,63.31,Oceania,10,7193875,23019814,47,-0.0,17.53,8.6,Extincion
+2041,Megaterremoto,66.52,Global,8,1736695,925378085,11,-1.93,38.83,78.4,Extincion
+2038,Megaterremoto,12.59,Oceania,5,5861131,890033991,5,2.98,71.0,52.7,Medio
+2031,Guerra nuclear,16.62,Global,1,3529849,330882647,15,1.73,17.69,92.76,Extincion
+2039,Inteligencia artificial descontrolada,87.66,Oceania,9,3319056,906270367,56,4.15,2.6,44.19,Medio
+2035,Impacto de asteroide,24.47,Global,2,9497870,897913893,2,4.0,53.41,80.67,Extincion
+2035,Fallo de la biosfera,93.38,Africa,6,6972667,590676888,65,3.29,68.52,1.54,Alto
+2026,Guerra nuclear,24.73,Oceania,8,4653401,950898453,69,3.75,2.97,55.58,Alto
+2046,Guerra nuclear,42.53,America del Norte,6,159023,36453668,23,4.14,55.83,95.39,Alto
+2040,Erupcion supervolcan,82.74,Global,5,1518909,345494553,87,-0.09,1.5,17.07,Medio
+2050,Inestabilidad economica global,8.64,America del Norte,2,3882440,144548729,53,1.7,33.19,17.95,Medio
+2049,Impacto de asteroide,82.18,Asia,5,2218204,306525006,80,-0.13,60.02,76.78,Extincion
+2037,Pandemia global,25.08,Global,10,9578773,725921429,71,2.32,0.64,74.26,Medio
+2034,Megaterremoto,2.48,America del Norte,10,5213659,758142107,73,-1.47,39.09,62.79,Extincion
+2040,Megaterremoto,30.07,Oceania,10,7428778,371605184,61,4.06,44.2,28.94,Bajo
+2050,Colapso climatico,14.78,Asia,6,4875700,641616732,23,0.73,38.05,5.33,Bajo
+2031,Inestabilidad economica global,1.67,America del Norte,8,1765394,758032044,61,0.75,60.97,86.11,Alto
+2039,Megaterremoto,42.75,America del Norte,1,2543116,12810666,59,-0.23,62.67,19.78,Bajo
+2039,Colapso climatico,68.85,Europa,7,8033287,116638786,68,0.45,13.19,36.42,Medio
+2041,Pandemia global,92.17,Oceania,10,7757114,666098874,20,-1.55,4.12,60.01,Bajo
+2048,Fallo de la biosfera,67.66,Europa,4,9754630,899470194,96,0.47,57.98,90.52,Alto
+2048,Pandemia global,4.3,Global,6,8472091,938500249,26,1.32,63.96,81.6,Extincion
+2047,Guerra nuclear,30.07,America del Norte,10,2729584,260153383,57,1.58,89.56,98.78,Alto
+2034,Erupcion supervolcan,87.05,Europa,2,4326816,235234572,35,3.48,23.79,86.32,Bajo
+2030,Impacto de asteroide,22.93,America del Norte,5,194635,711289741,18,-1.6,33.72,61.46,Medio
+2047,Inteligencia artificial descontrolada,55.33,Africa,6,1544,609171727,42,-1.46,45.53,93.84,Bajo
+2028,Erupcion supervolcan,0.11,Oceania,9,5136656,932723005,72,4.3,59.63,42.34,Bajo
+2032,Guerra nuclear,98.8,Sudamerica,7,6451660,166832376,89,-1.52,31.63,27.89,Extincion
+2035,Erupcion supervolcan,34.44,Africa,8,7072432,392046296,100,2.05,56.98,17.74,Alto
+2037,Pandemia global,21.13,Europa,6,6379003,827403071,53,4.14,10.72,76.13,Medio
+2036,Impacto de asteroide,59.18,Sudamerica,1,7708810,176945421,34,3.62,63.07,31.2,Extincion
+2039,Erupcion supervolcan,50.96,Sudamerica,6,4900447,38195354,36,0.16,26.21,85.1,Medio
+2035,Colapso climatico,28.61,America del Norte,6,7030857,728156600,42,2.61,28.85,49.08,Extincion
+2026,Inteligencia artificial descontrolada,75.82,Europa,6,8248012,407585378,81,-0.46,48.03,49.65,Extincion
+2027,Impacto de asteroide,98.1,Global,4,6028249,983895881,39,-0.64,36.57,77.27,Alto
+2028,Megaterremoto,62.61,Oceania,6,7875696,562409703,16,1.53,23.05,57.62,Medio
+2027,Erupcion supervolcan,18.98,Oceania,5,4242862,75793031,21,-0.57,11.52,69.79,Bajo
+2050,Colapso climatico,28.24,Africa,7,221476,503217315,63,4.09,49.13,92.24,Alto
+2030,Impacto de asteroide,12.92,Africa,5,7110495,873677225,79,1.27,38.62,50.57,Bajo
+2046,Megaterremoto,69.77,Europa,6,9038660,296370438,10,1.74,81.36,89.93,Alto
+2049,Guerra nuclear,30.8,Europa,1,7135018,487328009,47,-1.99,55.59,31.42,Medio
+2046,Inteligencia artificial descontrolada,6.32,Asia,9,7081472,937863427,39,-1.94,58.64,81.33,Alto
+2043,Colapso climatico,92.32,Europa,3,9047956,854453372,28,3.19,67.64,76.63,Alto
+2046,Inteligencia artificial descontrolada,27.79,Asia,2,6315851,202899718,11,-0.87,89.25,42.79,Bajo
+2030,Inteligencia artificial descontrolada,20.5,Europa,1,8543099,231050519,27,-0.25,38.12,0.65,Extincion
+2041,Erupcion supervolcan,22.16,Africa,1,3454978,301867333,26,4.65,30.66,34.86,Medio
+2035,Guerra nuclear,82.05,Global,5,8001804,403893935,31,-1.41,61.87,97.34,Extincion
+2046,Impacto de asteroide,76.83,Asia,9,6594937,146969633,5,1.54,17.79,23.26,Alto
+2050,Guerra nuclear,28.14,Global,9,2966831,22053289,34,2.17,69.6,34.1,Alto
+2032,Inestabilidad economica global,33.59,Global,4,3757844,141481642,11,4.25,67.88,96.67,Extincion
+2026,Guerra nuclear,83.43,Europa,5,4743343,636976716,53,0.51,15.76,12.62,Medio
+2046,Impacto de asteroide,14.4,Africa,6,1081521,606019263,95,0.39,1.55,8.41,Bajo
+2048,Tormenta solar masiva,55.77,America del Norte,10,437750,866316235,77,1.49,75.02,25.86,Bajo
+2037,Pandemia global,16.04,Global,1,4135915,306107312,34,-0.9,10.14,7.85,Bajo
+2032,Impacto de asteroide,0.61,America del Norte,7,5726453,603981427,94,3.91,16.44,12.99,Bajo
+2035,Tormenta solar masiva,23.4,Europa,1,7406450,816709680,62,4.51,54.58,93.18,Alto
+2033,Colapso climatico,30.3,Africa,4,8318072,761760579,94,-1.63,88.07,95.07,Extincion
+2026,Inestabilidad economica global,41.61,Europa,1,7953108,498081978,73,-1.17,12.59,56.74,Bajo
+2047,Fallo de la biosfera,69.37,Asia,5,6450141,280719206,83,4.14,11.33,69.3,Medio
+2025,Megaterremoto,81.37,Africa,4,8407457,822919480,36,2.88,21.01,48.02,Extincion
+2030,Fallo de la biosfera,80.27,Global,7,3404841,984254968,100,3.13,89.13,90.93,Alto
+2047,Colapso climatico,38.52,Sudamerica,10,7862883,373713885,35,-1.39,9.96,50.64,Bajo
+2033,Megaterremoto,81.75,Global,5,2757089,347744518,98,1.82,69.68,96.41,Extincion
+2035,Erupcion supervolcan,47.82,Sudamerica,2,112629,784260813,57,3.52,60.96,12.11,Alto
+2035,Inteligencia artificial descontrolada,30.94,Oceania,7,2473070,700291070,20,0.66,7.95,14.41,Alto
+2040,Inteligencia artificial descontrolada,48.91,Africa,9,8101548,463719942,31,-1.15,66.15,22.24,Alto
+2035,Tormenta solar masiva,32.17,Oceania,4,8168312,170838404,34,4.94,4.05,22.03,Extincion
+2043,Colapso climatico,91.22,Sudamerica,3,5152853,577568678,74,4.76,53.35,95.02,Extincion
+2040,Pandemia global,46.24,Asia,5,2948478,415399383,33,-1.75,24.97,42.25,Medio
+2026,Erupcion supervolcan,67.93,Africa,3,191851,820604748,20,1.81,60.8,97.09,Extincion
+2050,Inestabilidad economica global,85.08,America del Norte,5,8068968,879440525,48,4.28,72.53,69.29,Alto
+2038,Fallo de la biosfera,58.24,Global,4,6407761,929299391,16,-0.23,41.34,85.31,Alto
+2045,Tormenta solar masiva,74.02,Africa,3,7724091,254213849,2,0.72,40.43,14.62,Bajo
+2026,Tormenta solar masiva,34.24,Global,4,6474595,838364975,84,2.83,59.98,81.64,Extincion
+2034,Tormenta solar masiva,62.44,Asia,1,7633168,509132578,94,3.75,29.81,17.57,Extincion
+2047,Colapso climatico,12.36,Oceania,6,1010521,43262904,77,0.47,7.71,89.73,Alto
+2031,Inestabilidad economica global,81.14,Asia,3,16629,63012256,4,1.58,48.96,36.62,Alto
+2046,Impacto de asteroide,99.09,Global,3,7841021,592731339,12,0.57,54.97,39.11,Alto
+2031,Guerra nuclear,42.29,Global,2,3457783,859751313,65,0.81,65.52,45.67,Extincion
+2047,Tormenta solar masiva,39.7,Oceania,4,7116298,114207179,36,4.58,22.45,62.74,Extincion
+2033,Erupcion supervolcan,66.24,Global,1,9928471,861576298,54,1.23,58.05,67.34,Medio
+2025,Inestabilidad economica global,14.34,Asia,3,4889314,100980667,23,4.22,55.61,52.14,Medio
+2050,Guerra nuclear,87.0,Asia,1,887612,829785597,23,-1.69,81.59,51.19,Medio
+2033,Guerra nuclear,13.19,Africa,4,7643478,741492206,54,4.17,74.39,62.12,Extincion
+2047,Inestabilidad economica global,56.8,Global,2,6826989,540678919,51,3.5,47.77,57.75,Bajo
+2030,Tormenta solar masiva,20.21,Europa,1,3082179,239981172,100,4.04,78.47,83.67,Extincion
+2044,Guerra nuclear,2.83,Global,10,4831684,85034476,56,-0.03,60.49,78.03,Medio
+2027,Inestabilidad economica global,80.73,Africa,8,1313962,541103546,23,0.56,23.97,36.5,Extincion
+2027,Guerra nuclear,46.32,America del Norte,6,2192174,393893569,27,-0.98,8.26,83.66,Alto
+2044,Erupcion supervolcan,7.06,Sudamerica,8,206256,641125714,35,0.51,24.64,52.69,Extincion
+2030,Inestabilidad economica global,64.67,Asia,5,9616929,533370372,32,3.88,4.78,40.65,Extincion
+2045,Colapso climatico,36.6,Oceania,10,2698467,690241828,93,4.88,4.7,24.41,Medio
+2032,Pandemia global,28.71,Oceania,3,4386940,832037310,73,-1.09,26.26,70.22,Bajo
+2050,Tormenta solar masiva,27.19,Oceania,5,7767237,890246461,11,2.58,15.42,35.13,Extincion
+2027,Impacto de asteroide,17.49,Africa,4,7198525,667449312,86,-0.88,85.98,81.66,Extincion
+2048,Tormenta solar masiva,0.77,Asia,9,3585263,595942152,46,-0.81,51.91,83.82,Medio
+2043,Fallo de la biosfera,23.83,Asia,6,709341,973531131,69,2.65,41.75,72.34,Bajo
+2033,Tormenta solar masiva,64.72,Europa,7,1243571,226289315,76,3.25,16.08,9.72,Extincion
+2043,Inestabilidad economica global,79.25,Oceania,9,8054861,305164840,81,4.01,11.47,54.47,Alto
+2032,Colapso climatico,68.59,Global,3,6286225,182088891,83,4.39,23.78,1.54,Extincion
+2033,Fallo de la biosfera,80.26,Europa,7,5818815,376609714,83,4.87,79.25,55.25,Alto
+2049,Colapso climatico,61.44,Global,5,8680112,815444873,5,-0.42,13.81,95.06,Bajo
+2048,Tormenta solar masiva,4.02,Sudamerica,3,2498179,498975738,11,-1.04,88.17,66.71,Medio
+2044,Fallo de la biosfera,91.81,Sudamerica,5,8772201,363016318,39,-0.73,31.67,56.08,Alto
+2047,Tormenta solar masiva,34.41,America del Norte,5,4044573,900051186,53,2.6,3.7,7.92,Medio
+2027,Impacto de asteroide,94.88,America del Norte,1,1916776,699264176,89,2.7,57.73,76.31,Bajo
+2044,Megaterremoto,18.91,Africa,5,2960534,226836024,6,3.81,89.34,43.95,Alto
+2045,Megaterremoto,86.82,Oceania,6,519080,845490669,80,-0.44,43.13,42.68,Extincion
+2045,Erupcion supervolcan,71.93,Oceania,6,630697,273104565,69,-1.61,88.48,65.99,Extincion
+2049,Tormenta solar masiva,32.42,Africa,9,9417097,258978513,60,2.89,57.51,79.37,Medio
+2030,Tormenta solar masiva,44.8,Sudamerica,1,9657370,713358915,87,-1.29,50.03,81.89,Medio
+2043,Impacto de asteroide,14.1,Asia,8,7731621,276902288,52,-0.73,44.84,97.43,Bajo
+2037,Colapso climatico,77.93,Asia,4,160620,954558342,82,0.25,3.05,1.16,Alto
+2037,Inestabilidad economica global,60.63,Asia,5,7870199,272306771,90,1.94,42.86,92.46,Alto
+2027,Pandemia global,4.33,Global,7,2898819,400774346,11,3.51,73.4,79.44,Alto
+2035,Pandemia global,24.98,Asia,1,7722780,287455483,81,2.39,60.22,32.04,Extincion
+2026,Inteligencia artificial descontrolada,63.57,Asia,2,5619893,499300132,60,0.78,81.18,94.3,Medio
+2030,Tormenta solar masiva,86.59,America del Norte,4,6992312,269107786,73,-1.84,75.87,24.6,Medio
+2045,Inteligencia artificial descontrolada,74.26,Sudamerica,3,1129917,700642435,31,3.67,5.98,51.66,Medio
+2047,Inestabilidad economica global,39.78,Sudamerica,5,2014442,519586466,86,-0.23,55.48,35.43,Alto
+2042,Colapso climatico,90.34,Global,6,1727519,453730529,82,0.95,26.49,95.19,Medio
+2042,Impacto de asteroide,86.97,Africa,7,6900135,918785914,27,4.57,44.47,99.25,Bajo
+2035,Pandemia global,55.76,Europa,7,2213835,130821296,13,-1.97,40.03,64.29,Bajo
+2032,Inteligencia artificial descontrolada,80.42,Sudamerica,3,2560573,616680035,75,-0.36,9.72,2.64,Medio
+2036,Megaterremoto,42.2,Asia,6,1162205,991507279,25,1.22,58.29,89.44,Bajo
+2038,Inestabilidad economica global,87.48,Sudamerica,4,9072086,648653784,60,0.24,17.95,33.72,Extincion
+2034,Impacto de asteroide,88.89,Sudamerica,9,6699475,75768129,83,-0.95,73.07,87.13,Bajo
+2040,Fallo de la biosfera,49.95,America del Norte,8,8192827,145822229,70,-1.9,73.97,14.0,Extincion
+2042,Megaterremoto,59.14,America del Norte,8,4684650,649472251,90,3.23,50.8,99.51,Alto
+2032,Pandemia global,24.96,Europa,9,4220336,494212899,3,4.11,47.23,63.26,Bajo
+2033,Pandemia global,65.56,Oceania,4,6362470,378010528,16,3.33,59.04,26.67,Extincion
+2025,Guerra nuclear,96.0,Global,9,5089912,806816883,12,0.14,52.69,3.65,Extincion
+2032,Tormenta solar masiva,59.13,Global,5,6780990,355210229,34,-1.99,7.72,39.53,Medio
+2039,Inestabilidad economica global,40.72,America del Norte,10,1017596,155780176,94,1.7,59.95,54.38,Alto
+2035,Inteligencia artificial descontrolada,81.89,America del Norte,8,7993430,970706407,70,1.54,78.74,99.37,Extincion
+2042,Inteligencia artificial descontrolada,93.97,Sudamerica,5,871614,286986744,17,-0.79,55.43,80.06,Bajo
+2049,Impacto de asteroide,80.55,Africa,3,5936893,340063728,73,1.68,55.53,40.38,Medio
+2039,Megaterremoto,42.85,America del Norte,3,9806640,447078154,37,1.21,54.84,7.18,Alto
+2032,Pandemia global,87.33,Sudamerica,10,4675723,78886819,13,-1.44,56.98,22.28,Bajo
+2047,Inteligencia artificial descontrolada,21.19,Asia,7,9137233,312459841,67,1.03,52.17,92.04,Bajo
+2045,Fallo de la biosfera,32.72,Sudamerica,9,4828781,348983504,87,0.14,71.12,32.4,Extincion
+2028,Inestabilidad economica global,43.89,Europa,6,3503164,488553927,54,-0.26,27.71,81.08,Alto
+2029,Pandemia global,29.42,Global,1,8376742,37141140,67,-0.53,29.08,61.15,Medio
+2026,Tormenta solar masiva,19.88,Asia,10,4930836,364031493,22,4.41,10.59,53.93,Bajo
+2041,Megaterremoto,83.34,Africa,9,2302521,892448824,99,-0.32,52.43,67.33,Bajo
+2043,Erupcion supervolcan,14.82,Global,1,9072078,631973428,73,3.37,46.45,40.4,Medio
+2038,Inteligencia artificial descontrolada,66.84,Asia,9,2048257,833136082,100,-1.88,35.65,23.07,Extincion
+2040,Pandemia global,11.93,Europa,2,4819800,410774283,73,-0.46,34.1,47.24,Bajo
+2043,Inestabilidad economica global,23.54,Sudamerica,1,3838959,782214242,82,0.27,55.58,26.2,Alto
+2037,Fallo de la biosfera,70.05,Europa,5,1322841,762615440,71,1.98,2.13,56.21,Extincion
+2031,Inestabilidad economica global,56.98,America del Norte,4,3769511,176574912,16,1.73,89.48,94.44,Alto
+2049,Guerra nuclear,86.11,America del Norte,2,7732961,58414341,31,3.97,17.2,22.51,Extincion
+2048,Colapso climatico,87.6,Africa,6,9466874,818229472,24,0.74,11.27,69.67,Medio
+2034,Colapso climatico,80.8,Europa,2,9402110,567500902,91,3.37,42.5,66.86,Extincion
+2037,Pandemia global,63.84,Sudamerica,2,4662041,714433732,46,0.4,87.47,67.59,Bajo
+2036,Inestabilidad economica global,84.36,Africa,6,8281256,1707693,75,3.59,12.7,37.5,Alto
+2041,Inteligencia artificial descontrolada,85.63,Sudamerica,6,2497145,784692649,76,0.38,51.79,79.52,Bajo
+2049,Inteligencia artificial descontrolada,27.14,Africa,5,8983736,300031981,18,4.4,4.01,54.09,Alto
+2046,Guerra nuclear,77.95,Europa,2,1698635,513061013,18,3.92,49.47,66.93,Extincion
+2026,Erupcion supervolcan,81.21,Sudamerica,7,5198557,455715580,13,3.72,57.63,33.05,Extincion
+2037,Megaterremoto,33.82,Africa,10,846673,271288297,61,0.06,61.54,97.25,Alto
+2035,Impacto de asteroide,12.5,Europa,8,3732684,40643369,64,3.12,2.36,99.48,Extincion
+2037,Inestabilidad economica global,65.68,America del Norte,5,2449994,642300178,13,-1.09,3.24,21.35,Bajo
+2040,Colapso climatico,99.63,Asia,1,8670688,487544406,45,4.42,74.41,90.22,Alto
+2030,Megaterremoto,52.98,America del Norte,9,402804,262007382,63,-1.35,84.91,67.42,Extincion
+2032,Tormenta solar masiva,50.3,Oceania,6,4603536,90818740,67,2.58,42.46,74.83,Alto
+2038,Guerra nuclear,12.74,Europa,9,2751712,219870399,68,-1.01,82.53,67.58,Extincion
+2035,Guerra nuclear,29.66,Africa,6,4197777,659648423,22,2.11,19.72,66.2,Medio
+2026,Inteligencia artificial descontrolada,7.24,Asia,7,458626,377155078,95,-1.6,75.82,42.55,Alto
+2044,Tormenta solar masiva,78.06,Europa,2,8803210,856984933,57,1.4,35.69,87.22,Extincion
+2027,Pandemia global,64.2,Oceania,2,868763,540761936,56,2.55,82.38,66.19,Extincion
+2044,Tormenta solar masiva,48.47,Europa,1,9706093,968139720,16,4.29,40.43,90.31,Alto
+2029,Inestabilidad economica global,80.66,Global,7,2933704,724211770,89,2.35,32.53,76.39,Extincion
+2030,Inteligencia artificial descontrolada,93.27,America del Norte,10,9665571,745164537,100,2.38,70.47,11.51,Bajo
+2036,Erupcion supervolcan,31.14,Europa,3,1152192,918620056,48,3.2,27.98,18.95,Bajo
+2031,Erupcion supervolcan,11.26,Europa,8,1710096,268627650,75,0.5,69.87,8.7,Bajo
+2031,Colapso climatico,39.79,Sudamerica,4,3865695,914274531,16,2.53,44.47,15.54,Alto
+2046,Inestabilidad economica global,2.55,Africa,4,8256812,996728061,22,-1.29,29.08,6.41,Medio
+2025,Erupcion supervolcan,47.48,Asia,3,116459,388268986,72,-0.67,28.69,29.38,Medio
+2026,Inestabilidad economica global,41.11,America del Norte,4,9985057,895786095,85,0.76,85.19,93.53,Alto
+2046,Fallo de la biosfera,28.77,Oceania,10,9202363,637320281,88,4.13,82.59,62.11,Bajo
+2036,Guerra nuclear,19.91,America del Norte,8,954931,321474610,8,3.21,18.24,46.22,Bajo
+2026,Inteligencia artificial descontrolada,17.69,Sudamerica,9,3595965,280523824,75,4.12,31.43,78.31,Medio
+2048,Inestabilidad economica global,63.25,Europa,9,8675624,551331997,64,1.17,89.21,72.73,Medio
+2032,Pandemia global,65.12,Sudamerica,9,4041741,929575790,84,2.4,1.54,21.46,Alto
+2050,Guerra nuclear,83.95,Europa,8,8952325,106824671,94,3.85,22.59,38.77,Bajo
+2027,Guerra nuclear,50.23,Sudamerica,7,9909176,260979082,100,1.61,29.39,58.37,Alto
+2036,Pandemia global,89.44,Oceania,4,9101642,109203543,65,3.01,3.54,80.51,Alto
+2044,Inestabilidad economica global,56.05,Oceania,8,4623209,596344304,68,-0.69,66.79,82.67,Alto
+2037,Guerra nuclear,13.63,Oceania,6,5121877,315710826,34,4.76,5.98,51.23,Bajo
+2042,Fallo de la biosfera,1.4,Sudamerica,2,2993422,926598966,77,4.28,48.44,77.75,Extincion
+2028,Megaterremoto,15.57,America del Norte,4,7461922,775405874,11,2.39,62.49,74.21,Medio
+2044,Impacto de asteroide,43.67,America del Norte,9,685851,118559090,20,2.36,3.2,49.53,Extincion
+2043,Guerra nuclear,40.44,Europa,6,6613547,660713934,43,-0.15,81.05,58.6,Alto
+2035,Colapso climatico,48.9,Asia,3,9066033,822939565,14,4.63,65.01,65.62,Medio
+2027,Megaterremoto,95.7,Asia,10,8188368,698169224,43,-0.25,71.0,65.31,Alto
+2029,Erupcion supervolcan,87.1,Europa,9,5484212,230283004,53,3.65,38.32,40.42,Extincion
+2028,Megaterremoto,24.1,America del Norte,6,7108522,103200109,1,4.35,82.78,48.97,Medio
+2042,Inestabilidad economica global,72.48,Oceania,6,2643493,610887688,70,2.95,23.05,94.44,Bajo
+2028,Erupcion supervolcan,71.27,Sudamerica,1,5620738,858990588,64,1.61,58.33,56.53,Bajo
+2050,Tormenta solar masiva,32.22,America del Norte,3,7643551,248174530,2,4.69,87.34,65.5,Alto
+2042,Tormenta solar masiva,58.98,Sudamerica,3,3418856,698945208,35,4.04,9.19,16.14,Medio
+2042,Impacto de asteroide,46.62,Africa,3,2948929,640724893,88,4.59,72.06,64.56,Medio
+2048,Fallo de la biosfera,94.72,Global,9,3898862,833602124,78,-1.06,54.62,46.05,Bajo
+2046,Tormenta solar masiva,56.51,Sudamerica,2,3157677,512305693,93,3.22,86.27,92.14,Bajo
+2038,Pandemia global,7.01,Oceania,6,9067793,926605785,99,4.22,52.33,83.3,Extincion
+2041,Megaterremoto,46.01,Oceania,2,4288696,237506362,70,0.01,81.03,1.67,Alto
+2045,Impacto de asteroide,44.99,Europa,8,4626008,26349307,58,4.89,36.84,56.57,Alto
+2026,Guerra nuclear,9.56,Global,9,4112404,534250991,2,2.75,14.36,36.45,Extincion
+2048,Inteligencia artificial descontrolada,37.97,Asia,8,5160860,550309597,62,-1.06,20.85,3.71,Medio
+2036,Erupcion supervolcan,72.94,Asia,3,9524149,911977400,59,1.7,50.54,99.42,Alto
+2045,Pandemia global,77.09,America del Norte,6,8263524,386963968,73,-0.55,11.87,29.15,Extincion
+2045,Pandemia global,46.26,Oceania,4,2664848,351262379,79,-1.91,20.52,49.46,Extincion
+2047,Guerra nuclear,7.42,Sudamerica,5,4140758,669491885,62,2.3,83.34,82.02,Alto
+2050,Colapso climatico,78.28,Sudamerica,2,6170136,390306539,69,3.91,64.12,78.69,Medio
+2043,Guerra nuclear,41.4,Global,1,8257804,398066741,100,-0.19,19.99,78.99,Alto
+2028,Megaterremoto,52.57,America del Norte,8,4804398,1968264,44,4.72,30.11,60.85,Extincion
+2043,Fallo de la biosfera,36.21,Global,9,4789835,340436611,51,-1.58,16.61,21.86,Medio
+2025,Inestabilidad economica global,78.89,Asia,2,5985584,340552878,3,2.3,88.63,17.21,Bajo
+2047,Erupcion supervolcan,85.42,Europa,3,8297373,748360787,56,4.26,72.64,60.85,Bajo
+2025,Guerra nuclear,53.02,Sudamerica,2,2377430,610927088,12,1.61,38.83,81.1,Bajo
+2032,Pandemia global,63.82,Europa,3,438421,381119257,16,3.14,47.63,89.56,Alto
+2031,Colapso climatico,16.53,Global,9,7619569,959091555,57,-0.32,6.16,98.96,Alto
+2036,Fallo de la biosfera,35.03,America del Norte,7,1162386,882861971,12,4.98,45.43,12.32,Medio
+2026,Inestabilidad economica global,54.54,Africa,7,9878096,117979493,58,2.13,85.59,69.6,Bajo
+2034,Tormenta solar masiva,75.39,Oceania,5,3836731,280935807,91,4.53,79.46,64.09,Alto
+2037,Guerra nuclear,4.55,Oceania,8,4469674,505234209,39,3.25,55.65,73.09,Alto
+2047,Impacto de asteroide,25.35,Asia,3,5910217,756228387,14,2.22,17.11,77.36,Bajo
+2045,Pandemia global,72.38,America del Norte,5,6229530,657779357,39,-1.44,58.13,11.12,Alto
+2029,Tormenta solar masiva,50.43,Asia,7,3427912,526027311,93,-0.77,20.93,48.58,Extincion
+2035,Erupcion supervolcan,38.54,Oceania,9,7480528,856887096,56,4.38,47.81,82.48,Alto
+2033,Inestabilidad economica global,46.99,Asia,2,7443306,274307027,57,-1.94,81.24,83.47,Extincion
+2035,Guerra nuclear,48.46,Africa,3,8050324,478155460,85,0.26,85.73,60.07,Bajo
+2032,Megaterremoto,67.56,Asia,2,6482429,724598643,99,2.12,11.9,84.58,Extincion
+2034,Impacto de asteroide,64.69,Oceania,2,950643,973050095,74,4.49,71.32,29.09,Alto
+2049,Inestabilidad economica global,1.55,Europa,3,7696438,150286051,38,2.3,79.97,74.43,Bajo
+2027,Inteligencia artificial descontrolada,44.84,Africa,1,1088150,26957553,91,3.76,57.61,68.47,Medio
+2039,Inestabilidad economica global,84.66,Asia,1,3225755,573002956,10,3.18,73.64,44.32,Medio
+2037,Guerra nuclear,25.29,Sudamerica,10,5200058,468015201,70,-0.43,12.53,0.29,Alto
+2046,Inteligencia artificial descontrolada,94.12,America del Norte,9,5031279,637350531,86,-0.06,70.96,13.24,Medio
+2032,Colapso climatico,32.61,America del Norte,5,5700904,790634599,75,-1.97,69.35,35.73,Extincion
+2034,Tormenta solar masiva,42.98,America del Norte,9,7584713,621231740,54,1.5,84.77,6.82,Medio
+2035,Fallo de la biosfera,91.74,America del Norte,5,8395957,421028202,37,1.62,71.0,13.2,Extincion
+2037,Tormenta solar masiva,6.35,Global,4,8486733,61161792,32,-0.46,0.25,3.51,Alto
+2026,Colapso climatico,78.14,Oceania,4,8000515,534828145,95,0.21,74.83,13.36,Bajo
+2040,Erupcion supervolcan,11.95,Africa,6,7222855,668260828,33,1.12,81.53,52.06,Bajo
+2035,Colapso climatico,35.73,Asia,2,468024,69710787,18,3.25,56.38,48.56,Bajo
+2049,Impacto de asteroide,69.12,Africa,4,1278833,94247623,23,1.17,6.83,14.95,Bajo
+2042,Fallo de la biosfera,38.64,Global,8,6459505,392681847,13,0.33,38.17,48.16,Medio
+2049,Inestabilidad economica global,85.42,Oceania,8,4026334,92065113,48,0.47,69.47,17.66,Bajo
+2027,Erupcion supervolcan,40.96,Global,1,6770543,817266839,80,3.76,64.68,51.36,Alto
+2036,Tormenta solar masiva,36.51,Global,9,3451315,200800782,51,-1.55,59.76,91.15,Extincion
+2027,Megaterremoto,18.32,Oceania,10,3052175,652745792,27,-1.36,18.5,14.54,Medio
+2027,Inteligencia artificial descontrolada,10.59,Sudamerica,10,22415,990385246,12,-1.13,1.58,25.98,Bajo
+2037,Guerra nuclear,30.3,Europa,5,4638620,586074002,64,0.6,42.61,59.45,Bajo
+2036,Guerra nuclear,86.75,Sudamerica,3,3058854,506282229,25,2.84,72.73,40.32,Extincion
+2046,Inestabilidad economica global,20.98,Oceania,8,6970706,264207028,19,-1.72,51.06,27.78,Bajo
+2026,Megaterremoto,94.52,Sudamerica,4,4346124,859162705,16,4.08,39.2,92.81,Medio
+2030,Erupcion supervolcan,62.4,Asia,1,8543902,157144146,44,2.81,38.29,91.18,Medio
+2031,Colapso climatico,46.93,Africa,1,2975022,143697528,64,2.61,72.76,72.77,Medio
+2045,Pandemia global,12.18,Oceania,1,9837464,414145024,88,-1.1,10.81,16.5,Alto
+2027,Tormenta solar masiva,45.9,Oceania,1,8814937,775595115,89,0.68,13.85,18.28,Extincion
+2045,Colapso climatico,63.16,Asia,10,9566820,757162088,47,-1.96,15.6,0.31,Extincion
+2044,Colapso climatico,88.19,Oceania,3,5591616,397362105,9,-0.03,44.55,57.85,Extincion
+2050,Guerra nuclear,55.43,Asia,2,7424421,498930089,61,0.83,10.52,35.9,Alto
+2025,Erupcion supervolcan,2.88,Africa,2,3216863,768046106,9,4.85,25.05,49.85,Bajo
+2050,Pandemia global,32.91,Global,9,6961376,348041067,11,4.06,31.83,7.93,Alto
+2049,Colapso climatico,36.76,Europa,5,9013046,809698916,57,3.13,62.79,35.23,Medio
+2039,Erupcion supervolcan,12.22,Oceania,7,4871315,743886126,68,4.72,68.09,80.56,Bajo
+2050,Fallo de la biosfera,70.36,Global,6,8938964,622100440,36,3.53,64.43,64.46,Bajo
+2027,Guerra nuclear,66.92,Asia,10,8704723,274269390,22,2.37,20.45,99.46,Alto
+2045,Fallo de la biosfera,17.36,Africa,10,1174389,795804888,33,3.55,62.82,5.68,Bajo
+2026,Inteligencia artificial descontrolada,91.72,America del Norte,5,7932139,588733910,29,0.01,63.16,93.27,Alto
+2039,Impacto de asteroide,50.45,Sudamerica,6,4241173,858568521,79,1.81,58.86,19.56,Extincion
+2034,Colapso climatico,56.64,Global,8,902002,32603358,63,3.48,84.01,59.39,Alto
+2031,Inestabilidad economica global,82.31,Sudamerica,4,9154001,824020331,52,1.87,5.4,45.1,Alto
+2036,Colapso climatico,0.86,Sudamerica,8,5116873,785017092,90,-1.82,29.73,42.41,Alto
+2039,Pandemia global,65.64,Oceania,2,5126665,94757530,51,0.3,70.13,25.54,Alto
+2044,Fallo de la biosfera,64.15,Europa,2,4975837,675632676,82,-1.16,0.35,69.36,Bajo
+2033,Inteligencia artificial descontrolada,60.13,Europa,8,582047,497003753,53,3.17,10.21,8.8,Alto
+2027,Pandemia global,65.37,Oceania,9,9380690,165100730,1,-1.3,22.37,7.14,Alto
+2026,Colapso climatico,23.91,Sudamerica,7,3296285,780627231,70,2.13,52.32,8.69,Extincion
+2027,Impacto de asteroide,91.47,Oceania,7,5675557,513881393,82,4.99,10.82,36.04,Bajo
+2031,Pandemia global,91.01,Sudamerica,1,4694952,863283203,22,4.94,53.27,84.78,Extincion
+2031,Impacto de asteroide,50.07,America del Norte,5,7052453,149583028,85,2.59,1.66,43.02,Extincion
+2026,Colapso climatico,53.92,Sudamerica,9,7679572,608389138,32,2.07,62.13,31.64,Bajo
+2044,Megaterremoto,20.54,Oceania,2,707904,695548723,33,4.86,20.86,92.71,Medio
+2035,Fallo de la biosfera,87.93,Asia,1,2369424,28471127,53,-0.69,30.95,74.73,Medio
+2044,Inestabilidad economica global,62.22,Global,3,4568380,776254065,78,3.47,75.47,44.3,Extincion
+2033,Tormenta solar masiva,90.11,Oceania,10,1301056,402245462,16,3.38,39.8,48.43,Alto
+2025,Colapso climatico,31.12,Asia,9,776352,329021823,57,0.76,6.95,51.99,Alto
+2046,Fallo de la biosfera,25.74,Asia,2,5607376,506056283,47,-0.44,11.19,63.05,Medio
+2046,Erupcion supervolcan,35.2,Sudamerica,9,6196320,214536037,57,4.53,19.7,86.15,Bajo
+2028,Tormenta solar masiva,65.49,Oceania,9,881237,522160967,87,1.74,1.25,62.4,Medio
+2038,Erupcion supervolcan,82.54,Sudamerica,10,2268730,734970839,87,1.18,28.01,83.7,Extincion
+2050,Guerra nuclear,43.01,Europa,3,6660467,780129534,43,-1.62,81.72,30.07,Bajo
+2042,Inteligencia artificial descontrolada,1.82,America del Norte,8,5811585,532186448,40,4.87,71.08,98.46,Medio
+2050,Erupcion supervolcan,25.85,Africa,2,7816243,977500564,13,-0.37,26.07,31.05,Alto
+2047,Pandemia global,20.61,Sudamerica,6,4969985,196633324,92,1.47,37.92,71.84,Medio
+2039,Impacto de asteroide,44.84,Europa,5,1227232,660485524,44,2.6,28.08,65.46,Bajo
+2033,Tormenta solar masiva,9.34,Asia,3,9961930,940569286,61,0.74,78.58,45.23,Alto
+2027,Inteligencia artificial descontrolada,47.15,Africa,7,2036057,614732728,80,0.43,89.43,97.02,Extincion
+2050,Tormenta solar masiva,58.38,Sudamerica,7,706574,411794100,33,2.04,77.4,96.82,Medio
+2049,Tormenta solar masiva,7.47,Asia,1,9454771,962160170,29,-0.29,87.26,76.44,Bajo
+2030,Impacto de asteroide,66.4,America del Norte,3,8631369,276949,66,2.2,60.39,58.05,Medio
+2042,Erupcion supervolcan,35.97,Global,1,1041807,196709619,4,3.3,73.42,37.8,Alto
+2029,Tormenta solar masiva,24.03,Sudamerica,2,6627610,905772246,70,3.25,50.19,62.54,Alto
+2033,Inteligencia artificial descontrolada,72.17,Africa,1,7207762,664707116,16,-1.86,80.41,37.46,Alto
+2031,Colapso climatico,41.11,Sudamerica,8,5884540,861166652,95,4.21,46.01,75.45,Extincion
+2026,Inestabilidad economica global,76.27,Asia,5,5865709,733970899,76,1.12,52.0,24.32,Bajo
+2042,Erupcion supervolcan,98.21,Global,4,7792125,125784308,3,0.74,46.34,22.57,Bajo
+2030,Guerra nuclear,71.59,Asia,3,102245,62593432,89,2.8,68.9,92.43,Bajo
+2039,Fallo de la biosfera,64.99,Global,10,7096835,209905636,9,1.54,2.24,29.6,Alto
+2025,Pandemia global,8.08,Asia,2,3055570,148025252,23,1.13,26.55,93.47,Medio
+2029,Erupcion supervolcan,96.27,America del Norte,5,1376425,253227104,91,2.18,65.48,0.39,Bajo
+2031,Guerra nuclear,58.39,Global,3,7160442,215410005,40,1.63,34.98,87.99,Extincion
+2039,Inestabilidad economica global,74.48,Global,2,1333909,429247144,29,1.96,2.58,71.72,Medio
+2031,Tormenta solar masiva,81.89,Oceania,8,2963022,993292746,64,3.22,32.33,88.73,Alto
+2033,Erupcion supervolcan,9.02,Oceania,1,7631603,740182926,2,2.39,34.41,7.09,Bajo
+2037,Tormenta solar masiva,15.76,Sudamerica,7,1210188,45777701,5,-1.29,40.38,48.99,Alto
+2050,Inteligencia artificial descontrolada,73.58,Global,4,8798633,372205871,1,-1.68,56.18,60.57,Medio
+2032,Megaterremoto,93.6,Asia,1,3294203,33558125,18,4.48,82.61,49.59,Medio
+2026,Inestabilidad economica global,68.53,Asia,7,165400,398539560,53,0.62,55.4,9.34,Alto
+2045,Fallo de la biosfera,90.8,Europa,5,2976344,397710394,97,1.59,20.43,74.89,Alto
+2031,Erupcion supervolcan,31.1,Asia,3,3998343,477577946,66,3.42,63.79,18.45,Extincion
+2034,Tormenta solar masiva,50.53,America del Norte,5,1791634,875327718,66,-1.59,80.99,79.41,Extincion
+2035,Megaterremoto,1.55,Sudamerica,3,9536500,35811529,4,1.45,78.85,14.11,Alto
+2026,Fallo de la biosfera,59.71,Europa,1,8303515,550841091,47,-0.79,81.51,4.23,Alto
+2032,Megaterremoto,35.97,Oceania,3,4716875,209751223,40,-0.21,74.11,94.32,Medio
+2033,Tormenta solar masiva,68.56,Europa,2,3688197,727347230,58,4.25,56.63,97.07,Medio
+2043,Fallo de la biosfera,79.41,Europa,9,3981306,677771543,20,3.77,56.2,33.3,Bajo
+2047,Tormenta solar masiva,48.57,Global,7,4300721,472058371,77,2.39,24.49,21.6,Extincion
+2046,Guerra nuclear,76.67,Europa,9,9171153,373403756,77,1.57,86.99,76.7,Extincion
+2039,Fallo de la biosfera,29.8,Global,2,8687104,327555157,36,-0.06,25.28,1.81,Alto
+2042,Tormenta solar masiva,20.45,Global,3,6066754,20664550,73,-0.39,66.39,55.21,Alto
+2046,Fallo de la biosfera,7.58,Sudamerica,8,4514662,916978659,58,4.02,62.55,71.94,Medio
+2045,Guerra nuclear,93.89,America del Norte,10,8655700,360694157,98,-0.16,2.14,72.04,Medio
+2032,Megaterremoto,44.37,America del Norte,9,8049703,465131027,61,1.79,66.21,96.1,Medio
+2050,Inestabilidad economica global,12.0,Sudamerica,2,963251,524611908,36,4.59,1.46,71.98,Bajo
+2043,Guerra nuclear,71.71,Oceania,9,2607699,112660251,61,4.71,86.35,20.59,Bajo
+2035,Pandemia global,50.07,Oceania,10,8091507,534517612,30,0.85,20.31,84.67,Alto
+2046,Inteligencia artificial descontrolada,33.16,Global,10,9988894,981056748,38,-0.1,47.38,68.19,Medio
+2048,Colapso climatico,7.71,Sudamerica,4,9582912,756218762,9,4.26,78.84,47.92,Alto
+2047,Impacto de asteroide,15.94,Oceania,3,3139052,566054123,28,3.1,61.68,95.24,Extincion
+2041,Megaterremoto,43.38,Global,1,8238513,158341796,1,2.63,63.88,35.98,Bajo
+2044,Inteligencia artificial descontrolada,60.53,Africa,4,9138676,885781471,1,3.51,47.58,24.04,Medio
+2042,Inteligencia artificial descontrolada,34.09,America del Norte,1,5646155,694840728,63,0.14,83.45,56.36,Medio
+2045,Impacto de asteroide,26.37,Oceania,9,7552822,316813245,68,0.22,33.09,97.99,Extincion
+2049,Megaterremoto,97.1,Africa,8,8366422,176498433,76,2.91,32.59,78.99,Alto
+2040,Guerra nuclear,81.06,Oceania,5,9097753,761093884,43,-1.68,84.81,6.99,Alto
+2048,Fallo de la biosfera,31.63,Asia,1,4328544,137171018,42,-0.97,67.34,84.93,Bajo
+2048,Guerra nuclear,27.68,Asia,2,9189010,654088609,23,1.53,88.65,72.6,Bajo
+2043,Fallo de la biosfera,44.58,Sudamerica,8,5031549,81808782,19,0.68,87.08,81.04,Medio
+2026,Inestabilidad economica global,54.23,Africa,2,8402107,824344616,85,-0.6,11.82,0.95,Extincion
+2037,Tormenta solar masiva,89.74,Oceania,5,5254257,986439383,13,0.85,16.13,71.65,Extincion
+2027,Guerra nuclear,60.82,Sudamerica,10,8660193,178858219,22,2.99,13.36,23.81,Medio
+2037,Megaterremoto,16.39,Oceania,4,2231717,952830528,16,1.2,24.92,82.54,Bajo
+2041,Tormenta solar masiva,46.97,America del Norte,5,4049103,627033719,38,-0.92,2.95,12.96,Extincion
+2043,Colapso climatico,83.54,Asia,3,4607548,408601308,2,-1.44,80.25,44.29,Alto
+2049,Inteligencia artificial descontrolada,69.89,America del Norte,6,3224411,191859969,17,-0.31,75.39,7.8,Medio
+2040,Colapso climatico,1.31,Europa,9,4153434,282640644,58,-1.27,29.83,79.52,Extincion
+2032,Colapso climatico,27.83,Asia,1,9260709,459794978,85,3.35,76.68,45.54,Bajo
+2050,Pandemia global,0.79,Oceania,10,7427516,770744701,8,-0.16,70.3,44.8,Medio
+2039,Fallo de la biosfera,6.11,Global,10,9276991,453266934,83,2.87,48.19,85.75,Alto
+2041,Colapso climatico,41.96,Sudamerica,1,6541431,392225545,17,0.52,48.55,50.17,Extincion
+2039,Colapso climatico,21.13,Europa,9,8506173,353815608,86,2.82,31.27,20.95,Medio
+2049,Fallo de la biosfera,21.79,Europa,7,3239162,564708415,80,1.83,23.42,20.29,Extincion
+2026,Guerra nuclear,21.92,Oceania,1,708056,691021688,47,0.62,19.13,42.89,Alto
+2033,Pandemia global,9.34,America del Norte,7,6049,977280990,18,-0.43,41.93,86.36,Medio
+2027,Impacto de asteroide,22.89,America del Norte,9,2667426,557916547,12,-0.68,68.9,98.34,Medio
+2048,Pandemia global,23.12,Asia,7,8912981,378477120,72,0.71,73.61,95.2,Bajo
+2025,Pandemia global,31.82,Sudamerica,5,10739,963336077,31,-0.64,27.45,30.34,Bajo
+2042,Guerra nuclear,82.5,Europa,10,1945750,957537653,12,0.24,76.26,67.38,Medio
+2026,Pandemia global,42.3,Europa,6,6450018,253711625,26,3.03,57.92,30.92,Extincion
+2035,Erupcion supervolcan,47.02,Global,8,5701955,559027777,49,-1.7,39.73,71.31,Bajo
+2048,Erupcion supervolcan,86.78,Sudamerica,9,9860964,587261058,26,4.02,48.09,29.34,Alto
+2041,Fallo de la biosfera,4.03,Asia,7,1952800,88191113,40,-1.67,68.95,95.79,Extincion
+2026,Guerra nuclear,93.97,Africa,8,4842286,117923957,25,4.07,21.82,13.1,Medio
+2039,Tormenta solar masiva,16.16,Oceania,7,7076282,956755303,94,-1.79,12.93,95.17,Extincion
+2026,Megaterremoto,28.54,Asia,8,7935071,637460841,68,3.0,8.74,40.62,Alto
+2042,Megaterremoto,2.69,Europa,2,878142,78225786,32,-1.19,78.27,80.2,Alto
+2036,Pandemia global,24.52,America del Norte,10,9565823,862436707,12,2.66,54.96,44.03,Bajo
+2036,Tormenta solar masiva,25.57,Africa,5,8109625,845681449,42,1.77,47.23,37.2,Medio
+2049,Erupcion supervolcan,58.54,America del Norte,7,9863479,888997319,64,-1.09,22.39,20.88,Extincion
+2029,Inestabilidad economica global,81.27,Sudamerica,2,4053711,656390439,5,3.61,84.68,6.6,Medio
+2045,Tormenta solar masiva,22.33,Sudamerica,10,6457115,973125168,74,2.76,81.53,31.21,Extincion
+2029,Colapso climatico,15.25,Oceania,5,6227661,461942889,26,3.43,68.12,97.0,Bajo
+2037,Inteligencia artificial descontrolada,4.22,Global,1,8342343,638720982,62,2.26,66.63,14.48,Medio
+2049,Megaterremoto,69.5,Global,3,617618,229337695,20,3.11,29.48,20.24,Medio
+2050,Pandemia global,33.38,Oceania,7,2502787,281690679,15,3.43,33.01,12.17,Alto
+2047,Megaterremoto,80.39,Global,8,8918431,816650433,10,3.59,28.91,20.49,Bajo
+2048,Inteligencia artificial descontrolada,49.63,Sudamerica,9,6190952,612090160,91,4.81,60.57,37.0,Medio
+2027,Guerra nuclear,72.22,Africa,4,1072462,630688105,22,-0.13,51.4,3.29,Alto
+2041,Erupcion supervolcan,68.09,Oceania,1,7753897,498846553,51,1.56,55.24,63.1,Alto
+2036,Guerra nuclear,59.15,Sudamerica,2,2587539,926735179,17,4.11,24.83,93.96,Bajo
+2035,Inteligencia artificial descontrolada,73.34,Asia,8,3521643,868878960,94,4.01,42.72,11.71,Extincion
+2026,Inestabilidad economica global,92.91,America del Norte,8,2866026,25914739,31,3.91,10.86,30.72,Medio
+2036,Inteligencia artificial descontrolada,21.29,Sudamerica,2,8107766,364004493,76,-0.75,25.44,74.12,Extincion
+2050,Inteligencia artificial descontrolada,11.13,Global,7,9943573,810121061,85,-0.07,26.98,23.97,Medio
+2045,Fallo de la biosfera,11.58,America del Norte,2,9295209,436325868,6,-0.95,13.74,97.54,Extincion
+2030,Inestabilidad economica global,11.37,America del Norte,5,1389314,775320260,2,0.01,59.06,51.83,Medio
+2041,Impacto de asteroide,97.48,America del Norte,1,9194140,182194615,84,2.03,30.52,82.6,Extincion
+2025,Fallo de la biosfera,77.09,Europa,7,4605318,483938192,13,1.07,56.06,80.17,Extincion
+2045,Pandemia global,2.97,Oceania,10,468012,615477895,35,-1.83,77.3,8.58,Medio
+2025,Colapso climatico,96.45,Global,10,5803403,15165139,9,3.76,64.47,31.7,Medio
+2043,Pandemia global,31.72,Oceania,6,6190085,812445454,42,0.05,63.91,49.67,Medio
+2048,Colapso climatico,81.81,Oceania,8,3558669,31586684,5,4.17,33.44,98.71,Medio
+2030,Erupcion supervolcan,40.8,Global,7,8141975,991339653,3,3.45,50.08,98.96,Extincion
+2042,Megaterremoto,57.93,Europa,9,6488440,679395607,8,-0.62,84.08,55.1,Extincion
+2048,Tormenta solar masiva,71.97,Oceania,3,6831703,574586360,11,1.27,34.32,84.64,Medio
+2028,Pandemia global,31.75,Oceania,7,7458212,108122093,7,0.83,81.63,95.18,Medio
+2046,Megaterremoto,37.37,Oceania,10,1976528,693697457,48,0.5,19.07,29.92,Extincion
+2030,Guerra nuclear,51.07,America del Norte,3,2018446,677170801,66,4.91,88.73,27.46,Extincion
+2029,Inteligencia artificial descontrolada,84.41,Asia,8,5979175,953019647,36,-0.09,29.81,5.44,Alto
+2043,Fallo de la biosfera,24.46,America del Norte,3,1117062,128367304,37,-1.54,50.24,85.7,Alto
+2033,Erupcion supervolcan,43.61,Oceania,10,5126203,421862625,88,0.7,17.48,50.21,Bajo
+2039,Colapso climatico,70.22,Global,2,7224615,874507075,61,4.47,73.06,0.8,Medio
+2047,Inestabilidad economica global,66.0,Europa,1,3996259,811723174,41,3.26,9.74,96.11,Alto
+2038,Impacto de asteroide,28.6,Asia,8,4217521,229575513,17,2.67,73.32,3.79,Bajo
+2034,Erupcion supervolcan,57.62,Africa,4,240167,850446999,44,2.13,59.7,46.62,Alto
+2032,Pandemia global,57.46,Africa,7,2741479,105372602,80,-0.37,58.69,23.5,Medio
+2031,Colapso climatico,20.01,Oceania,8,8135321,242636820,18,2.78,50.21,41.51,Alto
+2038,Tormenta solar masiva,43.94,Asia,7,7208669,483868257,76,-0.07,89.91,75.79,Bajo
+2029,Fallo de la biosfera,21.9,Sudamerica,10,1798960,601605176,48,1.44,38.38,34.56,Medio
+2031,Megaterremoto,13.73,Sudamerica,3,8001482,820866833,6,4.46,51.16,31.24,Medio
+2046,Pandemia global,22.0,Asia,6,3428759,967344301,92,-0.14,77.19,33.39,Medio
+2038,Impacto de asteroide,72.09,America del Norte,5,1698019,745530418,87,-0.63,82.09,75.22,Medio
+2048,Fallo de la biosfera,77.27,Europa,1,4231529,144424571,93,0.42,31.96,19.71,Extincion
+2034,Colapso climatico,26.83,Oceania,2,8269466,886400482,42,0.9,65.0,94.78,Extincion
+2029,Colapso climatico,34.9,Global,8,8668695,131815598,13,3.4,62.94,34.12,Extincion
+2036,Guerra nuclear,5.03,Europa,10,4989151,660792078,42,-1.91,40.18,11.5,Alto
+2028,Colapso climatico,33.1,Sudamerica,1,1243243,594187500,1,-0.39,44.14,18.51,Extincion
+2049,Erupcion supervolcan,39.48,Oceania,2,1271925,912488742,57,0.86,11.88,46.87,Alto
+2047,Inestabilidad economica global,54.7,Asia,6,8660578,501618722,61,-1.03,19.01,7.51,Alto
+2044,Inteligencia artificial descontrolada,44.88,Asia,8,5843939,737028128,77,2.69,30.38,63.27,Bajo
+2030,Inteligencia artificial descontrolada,49.84,Sudamerica,7,6044244,296502735,63,1.47,56.92,46.52,Alto
+2040,Inestabilidad economica global,1.86,Europa,5,7773425,543633446,57,1.12,37.63,10.47,Bajo
+2026,Guerra nuclear,84.86,Europa,7,4217407,558661050,99,1.57,10.05,48.85,Extincion
+2050,Pandemia global,57.82,Asia,7,2082022,102812433,33,0.2,45.31,15.69,Alto
+2032,Guerra nuclear,75.94,America del Norte,2,4500142,692113477,81,3.94,35.97,31.92,Medio
+2046,Colapso climatico,65.03,America del Norte,10,3788906,390172136,40,3.66,65.66,51.67,Bajo
+2046,Guerra nuclear,66.01,America del Norte,5,8628579,29908821,41,-0.09,59.16,0.5,Bajo
+2050,Colapso climatico,59.3,Oceania,10,805424,339849504,13,3.58,9.33,78.02,Alto
+2037,Erupcion supervolcan,50.73,Europa,6,5008925,622268126,30,0.61,82.19,5.25,Medio
+2042,Impacto de asteroide,87.09,Global,2,7001137,588599117,66,2.53,31.96,82.84,Bajo
+2029,Impacto de asteroide,24.41,Asia,8,2800622,626911957,92,2.13,10.31,19.32,Extincion
+2032,Pandemia global,9.57,Oceania,1,2174330,317596690,63,-1.87,3.25,53.67,Alto
+2050,Pandemia global,98.16,Sudamerica,5,1241990,248926585,24,2.05,22.02,1.73,Bajo
+2048,Erupcion supervolcan,10.43,Global,8,1083827,50618504,20,-0.37,43.58,8.74,Bajo
+2028,Erupcion supervolcan,35.98,Global,1,9186945,536356534,37,1.31,44.04,12.28,Bajo
+2031,Inteligencia artificial descontrolada,77.68,Oceania,10,9528499,659257461,28,3.15,88.81,21.87,Medio
+2029,Impacto de asteroide,35.76,Global,1,9544530,506361137,61,4.97,56.67,6.56,Alto
+2031,Fallo de la biosfera,30.77,Europa,10,4674650,669461169,51,-1.0,43.48,66.16,Bajo
+2029,Tormenta solar masiva,94.79,Europa,7,4621408,315512384,4,-1.56,55.4,82.84,Extincion
+2036,Erupcion supervolcan,78.29,Africa,1,7660796,135169055,41,3.07,57.92,36.77,Extincion
+2030,Inteligencia artificial descontrolada,74.96,America del Norte,8,3826923,572537293,29,1.36,87.54,39.12,Alto
+2050,Fallo de la biosfera,35.24,America del Norte,3,4023517,708112344,69,0.15,65.46,90.98,Medio
+2050,Fallo de la biosfera,95.0,Africa,3,2540493,503602626,43,2.54,20.36,31.95,Medio
+2033,Guerra nuclear,45.11,Europa,3,3302459,396232258,58,0.0,28.63,16.95,Bajo
+2040,Impacto de asteroide,20.02,Europa,1,1670943,360453468,91,2.68,41.69,70.81,Extincion
+2044,Inestabilidad economica global,69.57,Oceania,3,7837381,8057336,95,1.3,28.06,80.26,Extincion
+2037,Guerra nuclear,81.19,Global,9,1234781,395891695,67,2.91,63.52,23.3,Bajo
+2032,Pandemia global,84.35,Europa,1,6460410,448048863,12,2.44,65.85,63.04,Extincion
+2048,Inestabilidad economica global,88.23,Global,2,9596240,606899543,63,2.55,41.83,11.81,Medio
+2042,Inteligencia artificial descontrolada,87.3,Sudamerica,10,9621645,433203887,48,-1.28,8.59,79.73,Alto
+2030,Megaterremoto,26.68,Africa,7,8031970,248446710,78,3.12,26.16,46.27,Alto
+2043,Inestabilidad economica global,19.99,America del Norte,8,9044042,15610401,43,1.47,21.26,40.31,Medio
+2028,Pandemia global,99.55,Asia,3,4625586,299287092,77,1.3,54.72,90.75,Bajo
+2027,Colapso climatico,31.97,Asia,3,6385494,192045327,75,0.51,15.99,5.28,Bajo
+2027,Guerra nuclear,56.77,Europa,10,1985006,112071520,60,2.11,62.46,44.67,Bajo
+2029,Impacto de asteroide,5.91,America del Norte,6,2563175,186785640,93,0.84,81.23,0.59,Bajo
+2030,Fallo de la biosfera,66.26,Sudamerica,7,2624257,424921962,21,2.46,25.1,38.85,Medio
+2043,Megaterremoto,1.68,Asia,7,2530344,278504784,55,0.51,26.35,79.84,Medio
+2027,Megaterremoto,12.41,Global,5,6865741,694229232,53,2.34,19.15,39.68,Bajo
+2028,Guerra nuclear,54.42,Sudamerica,9,5166141,377963116,8,2.98,62.05,52.29,Bajo
+2046,Inteligencia artificial descontrolada,87.23,Global,3,1503786,732969768,56,-1.66,36.88,0.12,Bajo
+2040,Fallo de la biosfera,27.94,Asia,1,2332793,3697035,29,-0.15,32.67,24.15,Bajo
+2032,Erupcion supervolcan,6.31,Europa,8,6947150,713442500,33,2.78,44.93,45.9,Alto
+2032,Tormenta solar masiva,50.05,Asia,3,5828718,531328338,87,-0.37,78.92,84.79,Bajo
+2026,Erupcion supervolcan,0.14,Global,3,2350047,564440603,76,3.13,79.36,47.62,Medio
+2035,Colapso climatico,43.44,Global,4,1793032,222446053,67,0.65,58.1,66.45,Medio
+2048,Fallo de la biosfera,43.66,Global,2,7294888,655069817,34,-1.09,28.36,79.34,Medio
+2027,Pandemia global,96.09,Global,3,5909335,725154862,76,2.1,52.96,35.37,Bajo
+2045,Pandemia global,66.1,America del Norte,6,3090275,611784889,49,1.76,34.4,8.7,Bajo
+2048,Inteligencia artificial descontrolada,7.51,Global,7,5886365,16840685,48,3.68,65.97,90.72,Bajo
+2029,Impacto de asteroide,57.03,Global,6,7884250,701683621,83,4.52,37.22,94.71,Alto
+2043,Inteligencia artificial descontrolada,90.82,Sudamerica,9,1884504,463967755,42,1.87,1.64,17.69,Extincion
+2049,Tormenta solar masiva,12.14,Europa,8,7516107,405740173,98,2.73,81.92,57.25,Medio
+2038,Inestabilidad economica global,23.37,America del Norte,8,4918042,563200483,19,2.8,20.01,24.88,Medio
+2028,Tormenta solar masiva,77.73,Oceania,7,8007103,292998262,21,-1.16,14.85,60.37,Extincion
+2032,Colapso climatico,85.65,Europa,10,6158547,340638978,75,3.16,77.96,42.89,Medio
+2041,Inestabilidad economica global,25.39,Europa,6,5693821,529094075,45,-0.45,60.38,9.85,Alto
+2039,Guerra nuclear,24.54,Africa,9,3142061,179841190,99,1.08,5.03,28.78,Medio
+2032,Colapso climatico,50.88,Global,3,9406504,188905547,42,2.39,85.22,21.66,Alto
+2043,Impacto de asteroide,96.04,Asia,9,279550,906786711,45,-1.76,31.64,1.72,Bajo
+2041,Tormenta solar masiva,50.12,Asia,6,6555835,629055847,14,-1.71,58.35,37.93,Medio
+2049,Inteligencia artificial descontrolada,61.72,Oceania,8,8250234,14145121,61,-1.77,35.68,99.16,Alto
+2047,Erupcion supervolcan,66.26,America del Norte,2,9865639,769688471,38,-0.28,17.65,40.04,Medio
+2035,Pandemia global,8.07,Global,10,9212720,436164194,87,2.5,55.29,15.37,Bajo
+2038,Inteligencia artificial descontrolada,48.34,Global,7,7890455,140955357,46,4.06,17.99,77.8,Bajo
+2038,Tormenta solar masiva,97.91,Asia,4,157201,595678750,90,3.51,35.99,0.36,Extincion
+2042,Guerra nuclear,74.34,Asia,8,3497875,712817406,55,1.43,42.63,53.88,Bajo
+2025,Megaterremoto,26.57,America del Norte,3,366745,716317816,32,1.14,81.8,7.19,Extincion
+2042,Guerra nuclear,5.75,Europa,1,2600296,840920693,67,4.42,20.24,35.69,Extincion
+2045,Tormenta solar masiva,52.68,America del Norte,1,392855,284051971,9,3.19,11.08,59.98,Bajo
+2028,Erupcion supervolcan,69.58,America del Norte,2,4759195,990225171,50,4.73,86.24,67.99,Medio
+2038,Inestabilidad economica global,62.67,America del Norte,5,1209792,797438029,61,4.02,16.03,32.09,Bajo
+2038,Inteligencia artificial descontrolada,76.17,Global,3,8710323,782958113,27,3.63,22.25,15.68,Extincion
+2037,Megaterremoto,63.25,Africa,7,3196235,323435736,58,-1.13,81.31,77.46,Extincion
+2035,Pandemia global,43.08,Oceania,1,6013805,662878392,19,-0.72,59.31,37.26,Medio
+2038,Megaterremoto,45.92,Africa,2,5463484,146853940,57,2.08,77.86,45.47,Alto
+2043,Fallo de la biosfera,89.87,Global,4,9173786,127293469,80,0.52,62.56,16.83,Medio
+2025,Erupcion supervolcan,65.91,Global,7,9338616,312138766,62,4.36,86.53,75.41,Medio
+2032,Guerra nuclear,41.05,Asia,6,5686291,308929573,52,0.7,50.49,97.95,Medio
+2046,Colapso climatico,96.04,Africa,10,6039734,308070357,31,-1.05,74.67,30.55,Bajo
+2049,Colapso climatico,7.19,Europa,8,5718049,800697162,96,0.42,56.34,42.32,Medio
+2030,Guerra nuclear,36.87,Global,9,5497714,905141747,97,3.74,71.81,87.55,Bajo
+2037,Impacto de asteroide,45.79,Africa,9,8830425,741107115,22,0.6,40.05,21.4,Extincion
+2026,Impacto de asteroide,11.56,Oceania,8,2925175,395767782,32,2.61,32.18,57.41,Alto
+2028,Tormenta solar masiva,39.67,America del Norte,5,7589941,329968578,83,4.92,77.02,59.67,Extincion
+2025,Pandemia global,28.52,America del Norte,8,4240455,629958621,66,4.56,25.09,2.76,Alto
+2037,Inestabilidad economica global,66.59,Europa,10,8987152,84494419,74,0.2,28.1,97.44,Medio
+2032,Fallo de la biosfera,20.68,Oceania,5,495449,75621914,72,4.77,32.03,4.91,Alto
+2025,Pandemia global,84.74,Africa,8,9918276,238056880,16,4.67,18.17,19.11,Medio
+2045,Pandemia global,51.98,Oceania,4,1890779,487813232,89,1.47,58.56,12.74,Bajo
+2042,Tormenta solar masiva,43.37,Oceania,1,6875576,564289102,70,0.16,60.74,31.65,Bajo
+2043,Colapso climatico,8.27,Oceania,2,8424174,116991166,97,3.01,89.06,66.05,Bajo
+2041,Colapso climatico,51.54,Global,7,1985501,594056362,92,2.44,26.81,91.22,Alto
+2039,Inteligencia artificial descontrolada,90.16,Oceania,2,9819722,217994973,86,-1.43,59.85,34.76,Medio
+2045,Pandemia global,90.44,America del Norte,7,6451044,205059105,17,4.61,0.39,71.08,Alto
+2028,Impacto de asteroide,32.66,Oceania,8,4172578,568930905,34,0.57,63.6,17.52,Medio
+2029,Tormenta solar masiva,81.02,Europa,5,3172130,307270225,89,-0.08,55.76,91.88,Extincion
+2027,Pandemia global,72.5,America del Norte,1,9591161,971579388,84,3.21,60.59,51.58,Bajo
+2036,Colapso climatico,57.2,Oceania,6,8631117,434398243,16,3.05,50.74,42.31,Bajo
+2035,Tormenta solar masiva,2.95,Oceania,8,3321077,335354502,69,0.75,1.08,40.18,Extincion
+2031,Fallo de la biosfera,67.58,Global,2,8037789,641979494,45,4.51,44.3,45.23,Alto
+2027,Fallo de la biosfera,10.53,Europa,9,1196937,716157331,74,-0.3,24.28,72.97,Medio
+2037,Tormenta solar masiva,77.71,America del Norte,3,1697554,204137192,66,0.71,15.55,99.99,Alto
+2046,Inestabilidad economica global,1.49,Africa,1,3586234,613462937,15,-0.21,33.87,84.9,Medio
+2035,Erupcion supervolcan,87.94,Global,5,5454308,813827160,93,1.49,17.1,76.67,Alto
+2046,Inestabilidad economica global,32.81,America del Norte,3,3618332,695616860,61,2.45,9.58,42.46,Bajo
+2036,Inteligencia artificial descontrolada,26.21,Europa,10,3736419,474361222,50,-0.05,18.28,36.58,Medio
+2027,Erupcion supervolcan,94.07,Asia,6,8416585,222502549,17,-0.07,55.94,17.76,Medio
+2026,Erupcion supervolcan,65.24,America del Norte,3,7323321,778661666,78,3.47,12.99,86.22,Bajo
+2045,Colapso climatico,23.62,Global,2,4540793,725726745,21,3.2,3.85,75.9,Bajo
+2025,Guerra nuclear,43.04,Asia,9,8751684,987539926,58,2.51,53.71,0.06,Alto
+2046,Impacto de asteroide,20.69,Asia,5,5452321,833042959,15,3.53,11.34,58.3,Bajo
+2039,Megaterremoto,76.8,Europa,7,5943144,337857347,18,3.2,39.02,52.02,Extincion
+2030,Impacto de asteroide,10.83,Africa,1,8562037,500228458,38,0.99,21.64,5.91,Extincion
+2034,Erupcion supervolcan,26.22,Global,7,7309369,269925473,93,-1.2,19.78,14.74,Bajo
+2042,Tormenta solar masiva,42.26,Global,10,8262131,655185690,46,4.02,19.93,23.12,Extincion
+2046,Fallo de la biosfera,59.9,America del Norte,9,8832532,416615798,72,2.28,70.73,3.44,Alto
+2031,Inteligencia artificial descontrolada,51.36,Europa,6,5411873,581894335,90,3.68,72.43,46.83,Bajo
+2049,Guerra nuclear,69.31,Oceania,10,9592032,425221914,19,0.49,29.13,50.55,Alto
+2046,Inteligencia artificial descontrolada,32.46,Sudamerica,6,1530962,495761854,18,1.09,81.24,3.11,Medio
+2043,Inestabilidad economica global,88.08,Europa,5,6940505,718859667,78,3.87,6.71,17.46,Bajo
+2029,Inestabilidad economica global,90.58,America del Norte,4,9674,792690674,55,2.88,23.77,18.18,Alto
+2030,Pandemia global,85.19,Oceania,7,2224468,244556895,98,1.17,60.4,57.56,Bajo
+2049,Pandemia global,81.63,Sudamerica,9,4907422,984425988,20,-1.62,31.07,17.31,Bajo
+2029,Tormenta solar masiva,4.87,Oceania,2,746611,428990934,100,2.68,47.98,30.27,Extincion
+2044,Megaterremoto,2.87,Oceania,6,459124,398998586,61,4.19,56.15,48.42,Bajo
+2028,Fallo de la biosfera,23.65,America del Norte,9,8669997,4159861,1,4.38,7.39,98.61,Alto
+2037,Megaterremoto,88.54,Asia,2,9618147,123457119,85,0.49,17.04,9.43,Bajo
+2045,Inteligencia artificial descontrolada,52.6,Europa,10,3272403,120850774,41,2.12,34.32,79.36,Bajo
+2036,Fallo de la biosfera,92.34,America del Norte,10,9808416,443546480,82,3.86,24.01,60.25,Extincion
+2031,Megaterremoto,30.14,America del Norte,6,3258433,122274301,98,2.78,66.72,26.56,Extincion
+2050,Erupcion supervolcan,96.82,America del Norte,3,7838963,683346712,80,4.67,26.78,44.56,Bajo
+2026,Erupcion supervolcan,85.85,Oceania,2,5627508,592880893,51,-1.28,29.93,27.14,Medio
+2044,Colapso climatico,5.93,Africa,4,1421274,305616356,44,-0.65,85.49,89.97,Medio
+2035,Guerra nuclear,67.57,Europa,5,8526130,884159189,38,-1.98,23.74,96.66,Bajo
+2033,Erupcion supervolcan,50.61,Asia,7,1321158,189753252,16,4.2,16.55,74.55,Medio
+2047,Impacto de asteroide,57.07,Global,4,5480473,427710491,12,2.08,67.31,42.53,Alto
+2039,Megaterremoto,95.09,Sudamerica,5,5266181,439911582,2,0.99,68.98,34.85,Extincion
+2040,Inteligencia artificial descontrolada,93.3,Europa,7,3034904,658135842,72,-1.83,28.24,55.47,Medio
+2048,Erupcion supervolcan,32.65,Global,2,9010900,376742651,39,1.18,26.47,2.09,Extincion
+2043,Megaterremoto,89.87,Europa,10,2371635,161145370,96,2.71,26.66,10.99,Bajo
+2034,Erupcion supervolcan,49.8,Sudamerica,5,2220335,344475636,66,1.58,83.64,59.43,Extincion
+2036,Guerra nuclear,77.94,Europa,10,5281742,163704957,80,2.61,34.44,48.19,Bajo
+2039,Inestabilidad economica global,27.63,Europa,6,4720776,216404294,19,4.05,55.45,69.19,Extincion
+2050,Erupcion supervolcan,17.64,America del Norte,2,6347008,103543758,85,1.56,76.91,23.12,Alto
+2042,Tormenta solar masiva,10.42,Europa,4,5253053,981446624,53,-1.49,28.6,14.24,Bajo
+2042,Guerra nuclear,88.74,Oceania,7,4544789,573100321,38,2.72,65.42,53.6,Bajo
+2043,Inestabilidad economica global,36.56,Africa,8,6639085,310675662,85,0.11,34.6,64.09,Extincion
+2045,Fallo de la biosfera,1.67,America del Norte,6,1771727,10363729,13,0.93,22.5,59.44,Alto
+2028,Megaterremoto,12.27,Oceania,4,1273919,40950535,98,1.7,77.46,61.47,Bajo
+2042,Pandemia global,96.18,Asia,4,5254877,673151633,38,1.82,45.75,79.95,Bajo
+2035,Inestabilidad economica global,18.71,Global,4,6354035,544602556,82,4.23,19.38,27.55,Medio
+2030,Erupcion supervolcan,45.37,America del Norte,10,988956,780466777,46,3.93,56.78,54.42,Extincion
+2034,Fallo de la biosfera,79.71,Oceania,9,5456223,569261890,59,4.42,42.86,36.98,Medio
+2031,Inestabilidad economica global,10.3,Asia,10,4564831,331066764,31,-1.34,47.54,85.82,Bajo
+2050,Inteligencia artificial descontrolada,49.5,Europa,4,6748292,119456598,13,0.15,60.83,82.58,Bajo
+2039,Inestabilidad economica global,48.51,Europa,6,2609377,101307431,82,3.2,62.2,31.72,Alto
+2035,Tormenta solar masiva,4.1,Global,5,5723506,611243120,36,3.4,88.43,68.53,Medio
+2036,Colapso climatico,51.02,Oceania,9,2142673,793734583,36,1.99,38.4,83.36,Extincion
+2050,Inteligencia artificial descontrolada,79.79,Global,4,2421628,806665551,28,-0.79,63.89,7.17,Bajo
+2028,Megaterremoto,7.42,Sudamerica,6,6456651,744605450,47,-1.01,89.32,27.38,Extincion
+2041,Inestabilidad economica global,60.59,Global,4,826673,905746096,99,0.2,38.48,30.37,Bajo
+2025,Guerra nuclear,38.61,Global,8,8974363,222297968,70,-0.41,49.57,83.96,Alto
+2031,Tormenta solar masiva,40.18,Global,10,398296,973570042,74,3.58,13.68,87.91,Alto
+2048,Guerra nuclear,33.63,Sudamerica,3,625988,735970352,89,2.49,76.56,30.17,Alto
+2027,Impacto de asteroide,80.61,Sudamerica,1,3898540,748883882,50,-1.99,22.63,83.67,Medio
+2041,Fallo de la biosfera,56.8,Global,10,1158217,17584077,52,0.79,61.64,96.65,Medio
+2042,Guerra nuclear,24.39,Africa,3,4144222,810081986,71,0.58,69.98,31.09,Alto
+2027,Inestabilidad economica global,87.55,Europa,2,1318787,363830165,7,1.8,66.48,3.15,Medio
+2041,Guerra nuclear,20.62,Global,5,3586397,462858475,67,-1.97,72.29,65.36,Medio
+2040,Erupcion supervolcan,28.06,Africa,7,9724020,969520147,37,4.24,51.72,88.04,Extincion
+2027,Erupcion supervolcan,15.91,America del Norte,3,2080372,671841089,41,-1.5,31.98,30.17,Extincion
+2044,Fallo de la biosfera,44.12,Global,6,7593724,134245904,55,0.53,70.79,93.18,Alto
+2025,Guerra nuclear,68.88,Oceania,4,4759170,55597601,99,0.77,20.77,17.07,Alto
+2028,Inteligencia artificial descontrolada,95.77,Global,4,2687033,511542843,56,0.42,49.43,54.22,Extincion
+2045,Fallo de la biosfera,5.9,Europa,6,4485283,854185379,62,1.8,25.3,62.08,Medio
+2027,Erupcion supervolcan,48.78,Asia,8,662239,902026045,15,0.26,80.07,29.23,Bajo
+2027,Colapso climatico,30.53,Sudamerica,1,3559267,854056859,52,-0.65,46.2,51.55,Bajo
+2025,Colapso climatico,92.66,Europa,1,4344533,340363714,54,4.77,79.94,88.85,Extincion
+2025,Guerra nuclear,31.54,Africa,6,367667,889824626,46,1.51,86.97,40.37,Medio
+2041,Inestabilidad economica global,32.62,America del Norte,8,1936381,918507184,32,4.26,84.9,68.26,Extincion
+2028,Guerra nuclear,31.13,Global,3,2447469,804615446,98,2.85,77.74,70.71,Medio
+2048,Guerra nuclear,2.8,Africa,7,1732221,441494113,100,1.59,55.87,71.19,Medio
+2026,Megaterremoto,52.55,Africa,9,7569073,436352902,68,4.66,83.34,55.64,Bajo
+2028,Guerra nuclear,16.35,Oceania,9,7051677,695836552,39,-0.38,39.19,88.56,Extincion
+2026,Inteligencia artificial descontrolada,38.61,Asia,5,3890242,241844146,20,3.58,53.05,26.96,Bajo
+2030,Colapso climatico,13.3,America del Norte,8,801312,252000871,13,0.96,12.3,64.4,Extincion
+2047,Erupcion supervolcan,8.99,Oceania,1,7407722,220985673,82,2.1,6.97,71.38,Bajo
+2042,Pandemia global,61.32,Oceania,2,5793000,804801178,64,0.27,30.85,98.51,Alto
+2035,Inestabilidad economica global,45.96,Africa,8,7117653,598014788,48,1.23,12.1,43.39,Medio
+2036,Impacto de asteroide,93.16,Global,6,9851219,933889338,51,-0.04,79.1,62.56,Alto
+2034,Erupcion supervolcan,45.17,Sudamerica,6,9846195,424049262,26,-1.43,20.6,87.96,Medio
+2032,Pandemia global,15.67,Global,4,3899574,409184186,2,1.2,35.8,94.13,Extincion
+2026,Erupcion supervolcan,56.29,Sudamerica,8,3265976,294035704,99,2.66,30.76,72.23,Alto
+2040,Inestabilidad economica global,79.14,Africa,8,5869561,670737321,100,-1.96,24.57,24.94,Bajo
+2039,Fallo de la biosfera,4.0,Oceania,3,7387288,397828281,30,4.1,8.22,64.09,Medio
+2047,Tormenta solar masiva,5.9,Asia,7,8457515,833313385,68,-1.67,66.32,60.4,Extincion
+2032,Colapso climatico,89.06,Africa,1,7341630,201382180,12,0.91,68.52,39.95,Alto
+2037,Colapso climatico,84.56,Oceania,2,458353,721552022,53,3.11,58.59,36.06,Bajo
+2050,Erupcion supervolcan,2.07,America del Norte,2,8811881,554806033,4,0.78,31.27,49.8,Extincion
+2044,Erupcion supervolcan,95.16,Global,3,330534,995703082,15,-1.95,12.69,54.93,Bajo
+2046,Colapso climatico,14.82,Sudamerica,6,6561149,701234338,27,4.07,77.5,80.12,Medio
+2043,Erupcion supervolcan,93.37,Europa,10,9761175,568172127,86,-0.17,9.89,91.2,Extincion
+2029,Inestabilidad economica global,10.49,Oceania,3,5435491,605248426,5,-0.99,9.81,94.34,Alto
+2036,Colapso climatico,17.19,Europa,9,3368026,681709084,90,3.35,0.34,28.21,Medio
+2039,Guerra nuclear,4.9,Asia,3,7388862,893561424,23,1.61,18.9,58.47,Bajo
+2026,Erupcion supervolcan,50.96,Oceania,9,9651477,701468322,96,4.83,70.86,26.21,Medio
+2043,Impacto de asteroide,30.43,Asia,4,3665000,257152139,64,0.96,61.03,70.61,Medio
+2044,Guerra nuclear,64.19,Oceania,10,8571569,286519613,3,3.62,39.7,61.63,Extincion
+2034,Megaterremoto,5.63,Europa,7,3594405,320780989,62,-1.85,75.95,53.51,Bajo
+2028,Colapso climatico,0.98,Sudamerica,10,4871047,716358758,36,-0.08,65.24,90.72,Extincion
+2049,Impacto de asteroide,52.63,Asia,9,3434017,964005571,2,-0.46,29.79,8.78,Medio
+2036,Inteligencia artificial descontrolada,15.1,Global,7,8743022,217997389,92,0.05,36.22,37.35,Alto
+2028,Colapso climatico,6.21,Oceania,4,9381388,829072756,79,-1.14,15.47,11.57,Extincion
+2044,Pandemia global,4.9,Global,8,5254589,373825203,67,-1.1,62.42,73.95,Medio
+2032,Inteligencia artificial descontrolada,45.26,Oceania,9,3024330,814201077,16,2.2,43.57,45.96,Bajo
+2030,Megaterremoto,0.52,Africa,8,3380945,618176180,88,1.54,23.88,44.43,Extincion
+2039,Erupcion supervolcan,35.37,Oceania,6,1510390,381605225,3,-1.16,80.07,32.7,Bajo
+2027,Tormenta solar masiva,60.74,Sudamerica,3,2295394,842119234,99,4.51,34.2,77.95,Bajo
+2031,Colapso climatico,15.94,Sudamerica,10,1965997,930846063,1,3.66,74.52,94.91,Medio
+2035,Guerra nuclear,49.47,Global,10,7583215,298036792,3,-0.87,56.47,50.72,Extincion
+2038,Impacto de asteroide,84.1,Asia,10,5059825,309300552,30,3.37,13.38,84.55,Extincion
+2027,Erupcion supervolcan,93.6,Oceania,8,4412368,224027968,37,-0.95,11.54,52.85,Medio
+2049,Impacto de asteroide,2.68,Sudamerica,3,9149608,416535951,84,3.84,35.03,57.8,Medio
+2032,Inteligencia artificial descontrolada,92.59,Europa,5,6278788,390726186,54,3.38,46.89,3.84,Extincion
+2029,Pandemia global,50.04,Global,1,7956240,397368904,81,2.21,52.99,68.15,Alto
+2041,Erupcion supervolcan,59.44,Asia,2,8033624,694309080,98,2.39,20.01,36.44,Alto
+2039,Pandemia global,19.05,Asia,3,2247642,922592806,86,3.31,80.9,74.6,Bajo
+2034,Megaterremoto,88.46,Africa,4,9295880,200485967,93,1.24,60.77,29.42,Bajo
+2034,Pandemia global,92.27,Africa,7,3865830,657581327,22,-0.21,36.98,18.46,Bajo
+2036,Guerra nuclear,48.0,Sudamerica,6,9635848,94382670,92,-1.07,70.26,74.24,Bajo
+2046,Inteligencia artificial descontrolada,91.37,Asia,1,5295321,503431294,40,-1.4,47.92,6.96,Alto
+2045,Tormenta solar masiva,2.46,America del Norte,8,5066829,299242848,52,3.87,44.92,45.14,Medio
+2035,Pandemia global,77.87,Asia,6,4926429,102148163,39,4.38,74.84,49.51,Alto
+2042,Colapso climatico,77.37,America del Norte,5,3794002,522002792,47,0.24,40.05,70.43,Bajo
+2048,Guerra nuclear,74.71,Sudamerica,1,6557689,594039381,20,1.93,84.9,71.28,Bajo
+2040,Tormenta solar masiva,60.79,Sudamerica,2,6944039,374798384,19,0.61,29.62,62.72,Extincion
+2027,Inteligencia artificial descontrolada,96.93,Oceania,5,7881160,367129233,62,0.42,83.05,43.63,Medio
+2041,Inteligencia artificial descontrolada,26.69,Oceania,2,759621,772237372,88,3.83,77.73,17.9,Medio
+2044,Guerra nuclear,81.44,Oceania,8,5627400,486862129,8,3.18,1.41,24.99,Alto
+2033,Fallo de la biosfera,33.26,America del Norte,3,963882,808114612,24,-1.75,61.92,92.03,Medio
+2026,Inteligencia artificial descontrolada,56.35,Africa,7,8353664,135995962,72,-1.45,88.93,35.15,Extincion
+2034,Guerra nuclear,57.18,Europa,7,5485090,931892574,32,2.41,65.7,60.53,Bajo
+2037,Fallo de la biosfera,91.64,America del Norte,5,6593664,900803190,43,-1.85,55.77,0.68,Alto
+2025,Inteligencia artificial descontrolada,9.45,Global,4,7109087,773840395,70,-1.44,8.77,43.29,Extincion
+2047,Inteligencia artificial descontrolada,47.42,Oceania,7,6762134,452945438,16,4.17,72.02,68.12,Alto
+2036,Colapso climatico,57.0,Sudamerica,2,7881662,971743203,47,3.58,84.2,32.59,Medio
+2043,Fallo de la biosfera,44.06,America del Norte,4,2339889,390701716,77,1.23,23.03,33.39,Extincion
+2035,Inestabilidad economica global,43.9,Oceania,4,6427968,255360822,17,3.78,76.49,50.11,Medio
+2046,Colapso climatico,40.6,Asia,3,4436136,558559754,8,-0.72,69.74,54.77,Bajo
+2044,Colapso climatico,52.85,Europa,10,7999717,882545226,75,1.4,36.67,16.4,Medio
+2027,Pandemia global,82.56,Asia,9,9042641,241324407,44,4.76,60.32,71.9,Bajo
+2035,Pandemia global,48.3,America del Norte,3,8830531,612949147,75,-0.11,48.6,48.75,Bajo
+2041,Inestabilidad economica global,5.86,America del Norte,7,971679,836572412,44,3.69,86.4,67.33,Extincion
+2038,Fallo de la biosfera,70.22,Asia,4,8553717,557916785,17,-0.13,65.27,10.75,Medio
+2026,Inestabilidad economica global,42.04,Europa,4,5406205,37782996,40,0.09,26.97,17.54,Medio
+2045,Inteligencia artificial descontrolada,10.8,Oceania,4,2414129,567984639,2,0.22,80.12,26.25,Extincion
+2029,Colapso climatico,88.72,America del Norte,8,4124486,12740640,62,3.86,6.72,13.94,Medio
+2040,Erupcion supervolcan,62.16,Africa,7,4269670,13846403,25,-0.39,82.12,63.54,Alto
+2043,Pandemia global,74.06,America del Norte,4,1778298,961044911,87,4.16,37.15,18.86,Alto
+2049,Fallo de la biosfera,84.2,Europa,10,564710,723770892,82,2.43,3.65,10.4,Bajo
+2047,Erupcion supervolcan,48.21,Sudamerica,1,4671488,188921719,50,3.09,21.25,78.19,Bajo
+2028,Inteligencia artificial descontrolada,43.59,Global,1,6964394,40072566,25,1.56,25.12,92.69,Bajo
+2026,Pandemia global,85.12,Global,7,3999542,587029842,47,0.17,68.65,33.31,Alto
+2026,Tormenta solar masiva,60.66,Global,10,3986928,642738324,94,-1.73,60.25,85.11,Medio
+2049,Megaterremoto,15.35,Africa,10,7294451,193247673,18,0.34,33.23,29.73,Medio
+2044,Impacto de asteroide,9.82,Global,2,7079009,191358100,86,3.31,60.46,11.61,Bajo
+2036,Inestabilidad economica global,35.19,Asia,1,8933607,867276402,81,1.2,32.41,13.54,Extincion
+2025,Pandemia global,88.53,Europa,7,5432517,546437354,68,4.16,52.58,67.79,Medio
+2044,Inestabilidad economica global,94.9,Europa,4,9375455,225439944,45,4.65,72.93,31.43,Extincion
+2031,Fallo de la biosfera,19.7,Oceania,4,315322,791024459,44,2.06,22.83,89.41,Medio
+2033,Impacto de asteroide,37.59,Europa,5,9747640,898817128,89,0.21,62.42,78.14,Bajo
+2041,Colapso climatico,31.71,Europa,2,4021854,38120951,17,-0.53,59.48,87.05,Extincion
+2039,Erupcion supervolcan,13.93,Sudamerica,10,1648285,264165392,39,4.04,32.16,36.25,Medio
+2031,Impacto de asteroide,69.78,Global,4,3811792,561539307,98,1.01,22.79,89.92,Alto
+2044,Inestabilidad economica global,7.4,Global,1,5680946,181918645,82,0.11,46.11,72.01,Alto
+2025,Colapso climatico,27.46,Global,2,9671798,202186539,54,3.57,37.71,80.84,Alto
+2030,Fallo de la biosfera,60.36,Europa,4,912635,711235184,22,3.79,16.77,67.3,Extincion
+2043,Tormenta solar masiva,94.88,Sudamerica,5,9642762,21856976,9,2.76,65.63,88.5,Alto
+2025,Inteligencia artificial descontrolada,99.77,Global,10,7418932,24356846,65,3.99,70.81,95.61,Medio
+2032,Megaterremoto,89.44,Europa,9,9340443,473168395,61,-1.74,54.3,95.35,Bajo
+2039,Erupcion supervolcan,18.7,Sudamerica,1,3099921,336513224,50,0.44,3.87,69.92,Bajo
+2032,Erupcion supervolcan,7.86,Global,7,5595769,981064100,47,3.9,40.12,20.89,Alto
+2049,Pandemia global,83.94,Africa,9,5544805,234693580,9,2.75,8.54,78.2,Extincion
+2026,Inestabilidad economica global,90.21,America del Norte,10,6805536,23044122,78,-0.26,85.7,29.49,Medio
+2033,Inteligencia artificial descontrolada,83.87,Global,2,9087290,146397595,35,2.18,56.75,31.02,Extincion
+2049,Inteligencia artificial descontrolada,38.58,Oceania,9,4749826,397970652,97,4.82,29.77,83.94,Medio
+2048,Inteligencia artificial descontrolada,9.71,Africa,4,1457395,490235149,16,-1.95,34.27,17.73,Medio
+2047,Pandemia global,19.13,Africa,8,5575664,131022448,59,-1.46,7.58,60.29,Medio
+2034,Inteligencia artificial descontrolada,18.8,Global,7,9162706,819503790,92,1.33,37.1,54.19,Bajo
+2040,Impacto de asteroide,87.5,Asia,10,4795576,299483061,79,4.21,31.04,83.07,Medio
+2042,Inestabilidad economica global,25.08,America del Norte,7,2908844,97514497,11,0.42,22.27,91.19,Alto
+2025,Guerra nuclear,17.57,Sudamerica,9,1321356,307364177,63,2.99,64.54,74.6,Extincion
+2049,Colapso climatico,14.03,Oceania,4,1563338,587108896,45,3.27,85.92,29.43,Alto
+2030,Colapso climatico,74.24,Oceania,8,7646354,233637487,86,2.78,84.06,36.23,Medio
+2035,Colapso climatico,66.92,Global,5,9407185,549402584,43,-1.0,70.23,83.66,Medio
+2025,Guerra nuclear,1.66,Sudamerica,8,8983986,904629603,6,0.27,37.01,12.43,Alto
+2042,Inteligencia artificial descontrolada,97.66,Europa,7,9465506,598243805,71,-0.93,75.43,7.36,Extincion
+2025,Tormenta solar masiva,84.5,Europa,1,8962159,124848448,77,4.78,39.14,4.83,Bajo
+2048,Colapso climatico,61.32,Asia,9,2168178,586214961,76,-0.53,4.19,2.7,Bajo
+2038,Erupcion supervolcan,67.75,Europa,7,5779761,289096280,37,-0.83,55.25,43.19,Medio
+2041,Erupcion supervolcan,14.23,Europa,8,2208440,332004073,88,0.91,61.21,38.53,Medio
+2031,Tormenta solar masiva,73.67,Africa,5,2516378,796268886,93,4.41,72.14,21.44,Extincion
+2040,Fallo de la biosfera,67.7,America del Norte,9,7391414,670673050,5,4.08,40.35,87.04,Bajo
+2048,Erupcion supervolcan,75.32,Asia,1,84788,873591324,54,4.34,29.92,71.88,Extincion
+2035,Tormenta solar masiva,11.09,Oceania,4,3037514,637627540,93,-0.78,31.85,10.2,Alto
+2039,Fallo de la biosfera,17.15,Africa,6,2233344,507159798,7,0.92,89.39,69.11,Alto
+2033,Megaterremoto,13.21,Sudamerica,4,8862117,677239568,97,2.04,7.17,43.97,Bajo
+2032,Fallo de la biosfera,19.19,Asia,4,2791341,885349679,68,0.3,43.29,13.03,Bajo
+2034,Guerra nuclear,59.38,Africa,8,3212430,463538267,87,-0.79,24.47,19.66,Medio
+2028,Pandemia global,47.15,Oceania,8,6227624,970614281,12,4.46,46.28,15.48,Medio
+2025,Tormenta solar masiva,67.95,Sudamerica,10,3203728,810818819,29,0.34,13.22,69.61,Extincion
+2037,Guerra nuclear,18.12,Asia,9,345308,59919113,55,2.8,37.6,66.39,Alto
+2026,Guerra nuclear,81.09,Oceania,1,426724,661730600,96,0.83,6.93,40.26,Medio
+2050,Pandemia global,54.06,America del Norte,3,7125585,442515770,58,2.31,30.78,30.55,Extincion
+2044,Erupcion supervolcan,80.02,Africa,2,7000342,140518418,8,-0.29,61.84,69.41,Bajo
+2038,Inestabilidad economica global,78.82,Asia,6,5882034,530829617,32,2.31,2.56,55.99,Bajo
+2031,Erupcion supervolcan,95.93,Global,2,3463851,220712948,43,4.73,54.02,38.55,Medio
+2043,Impacto de asteroide,70.57,Global,7,5407175,472627566,60,2.9,24.62,55.69,Bajo
+2049,Fallo de la biosfera,26.97,Asia,10,4274223,143646062,26,-0.77,9.99,73.11,Medio
+2042,Tormenta solar masiva,13.81,Africa,4,5244612,334969767,78,0.8,28.8,22.86,Bajo
+2037,Megaterremoto,69.08,Asia,3,7614946,678470272,36,1.35,76.81,97.34,Alto
+2042,Fallo de la biosfera,21.22,Sudamerica,7,5583820,968268052,24,3.78,74.75,80.82,Medio
+2050,Pandemia global,17.9,Global,9,6884761,624682855,89,0.78,22.58,63.69,Alto
+2032,Pandemia global,66.26,Sudamerica,4,7813853,31179889,62,4.83,45.73,68.84,Medio
+2038,Megaterremoto,83.04,Global,2,3027462,804517423,80,-1.78,32.46,92.03,Bajo
+2033,Colapso climatico,18.11,Europa,7,5031351,39318488,9,-1.16,55.91,99.29,Bajo
+2028,Tormenta solar masiva,2.13,Asia,9,3907560,264720694,20,3.7,37.71,77.39,Medio
+2047,Inestabilidad economica global,28.91,Sudamerica,5,8026697,208710948,60,0.13,85.25,93.43,Extincion
+2045,Megaterremoto,90.92,Africa,6,444560,968961457,29,-0.04,69.09,60.74,Medio
+2039,Erupcion supervolcan,95.14,Oceania,7,7990599,559654519,1,0.03,79.25,17.28,Bajo
+2034,Fallo de la biosfera,91.07,America del Norte,4,6562923,131603984,22,-1.39,37.28,32.23,Alto
+2038,Fallo de la biosfera,36.45,Oceania,5,7161064,632308688,63,4.78,67.61,2.37,Medio
+2037,Guerra nuclear,17.77,Africa,3,7736502,165604394,31,-1.01,48.76,12.66,Alto
+2041,Pandemia global,57.31,Europa,7,3626205,96154540,77,0.33,10.14,87.93,Bajo
+2036,Erupcion supervolcan,27.03,Asia,9,6934592,48124725,19,-0.3,65.89,23.56,Medio
+2036,Megaterremoto,53.28,Asia,7,6801205,880968273,69,0.97,27.82,23.08,Alto
+2044,Guerra nuclear,34.45,Oceania,9,8734480,573655603,64,0.35,63.61,88.0,Medio
+2041,Tormenta solar masiva,22.83,Africa,2,1243875,11976149,86,-1.69,23.09,69.13,Medio
+2025,Tormenta solar masiva,70.8,Global,4,3563851,611983240,67,3.54,42.52,24.9,Medio
+2029,Pandemia global,41.74,Sudamerica,7,6051192,841591476,84,-1.32,18.93,65.14,Alto
+2048,Impacto de asteroide,69.06,Europa,6,875412,470560987,83,-0.37,26.83,54.47,Extincion
+2041,Tormenta solar masiva,4.18,Asia,8,8834403,541414991,57,1.71,0.98,98.64,Alto
+2037,Guerra nuclear,94.49,Sudamerica,6,617517,18141137,18,4.23,87.29,87.11,Alto
+2032,Erupcion supervolcan,4.74,Global,8,41766,613979450,12,2.27,31.73,3.45,Extincion
+2043,Impacto de asteroide,96.66,America del Norte,4,6051252,425990515,21,1.88,81.27,94.99,Extincion
+2044,Pandemia global,56.03,Africa,4,7850169,196975558,20,0.17,69.03,0.65,Bajo
+2046,Guerra nuclear,5.6,Europa,4,4414354,647772161,74,0.63,12.89,3.8,Bajo
+2044,Colapso climatico,98.96,Sudamerica,4,8438250,103278337,82,-1.86,12.35,1.67,Bajo
+2034,Erupcion supervolcan,78.87,Europa,8,6580185,481203411,37,2.86,4.25,47.02,Alto
+2047,Pandemia global,78.13,Asia,6,3475096,428436605,2,4.94,0.82,20.04,Alto
+2032,Tormenta solar masiva,65.44,Africa,3,8059898,600800800,74,-0.21,22.42,30.81,Extincion
+2043,Erupcion supervolcan,36.42,Global,8,2136645,497671380,76,3.14,47.02,66.61,Alto
+2049,Erupcion supervolcan,93.23,Africa,8,1483823,251266042,48,-0.96,26.36,64.84,Extincion
+2047,Fallo de la biosfera,48.58,America del Norte,1,2071241,566767395,73,2.51,26.95,88.11,Extincion
+2042,Pandemia global,66.9,Asia,8,3128902,806899330,39,2.77,17.35,15.76,Bajo
+2028,Megaterremoto,23.91,America del Norte,9,123572,109808401,7,1.89,43.79,49.42,Extincion
+2048,Guerra nuclear,62.32,Oceania,10,7261339,286814260,22,-1.11,50.41,72.47,Bajo
+2028,Inestabilidad economica global,37.76,Europa,3,9487932,373318078,20,-1.67,45.78,17.23,Extincion
+2044,Impacto de asteroide,8.04,Asia,4,7257096,561961526,53,0.73,24.88,62.81,Medio
+2038,Impacto de asteroide,37.22,Sudamerica,8,9868312,107905715,96,-1.58,1.53,88.02,Alto
+2030,Tormenta solar masiva,78.59,Africa,2,3033755,764544526,97,0.35,70.97,70.95,Alto
+2045,Pandemia global,66.74,America del Norte,1,9565742,260470970,84,4.32,36.5,76.7,Extincion
+2049,Megaterremoto,93.36,Oceania,4,8447168,149638249,1,-0.55,77.28,56.24,Bajo
+2047,Megaterremoto,89.5,Sudamerica,10,7075302,491332035,28,1.3,79.9,92.11,Bajo
+2039,Inestabilidad economica global,18.93,America del Norte,7,4895535,535881627,83,4.89,80.25,68.23,Alto
+2025,Colapso climatico,81.19,Asia,1,2522712,434559658,24,4.29,75.26,36.38,Medio
+2040,Colapso climatico,77.43,America del Norte,1,5552964,451550103,89,0.23,38.11,93.07,Bajo
+2026,Erupcion supervolcan,27.83,Oceania,1,3343956,87575907,40,1.0,16.64,95.69,Extincion
+2034,Megaterremoto,88.77,Europa,5,8610091,542869670,6,-0.8,67.64,91.62,Alto
+2034,Inestabilidad economica global,58.11,Africa,10,2188155,631343993,41,4.78,1.57,97.01,Medio
+2033,Erupcion supervolcan,2.23,Asia,10,9816810,95464233,45,3.78,12.21,43.14,Alto
+2028,Fallo de la biosfera,53.28,Africa,3,3730220,421017986,47,3.0,7.28,50.0,Extincion
+2027,Erupcion supervolcan,85.76,Oceania,9,5904843,702895474,92,-1.99,76.85,66.27,Medio
+2041,Erupcion supervolcan,61.56,Asia,7,1055071,947445681,2,3.06,55.39,9.22,Alto
+2041,Tormenta solar masiva,1.1,America del Norte,7,822461,6245803,93,-1.68,86.69,53.15,Extincion
+2036,Colapso climatico,40.83,Africa,8,1822692,31452154,27,0.95,27.25,8.26,Medio
+2032,Guerra nuclear,58.69,Global,2,8164412,158343285,62,-1.83,43.74,41.65,Medio
+2047,Impacto de asteroide,49.75,America del Norte,6,2159843,266173877,33,2.86,89.38,91.05,Medio
+2035,Fallo de la biosfera,23.32,America del Norte,5,1916422,762368638,82,0.56,7.69,87.36,Alto
+2050,Impacto de asteroide,29.9,Sudamerica,9,5135256,390812210,65,1.54,43.96,96.29,Extincion
+2038,Guerra nuclear,53.16,Asia,1,8856004,912060472,60,2.38,86.86,60.48,Medio
+2042,Colapso climatico,96.1,Europa,7,3669687,722869284,14,4.28,80.23,9.62,Bajo
+2047,Pandemia global,56.73,America del Norte,10,1963606,759948002,32,2.47,31.27,88.88,Alto
+2034,Inestabilidad economica global,83.52,America del Norte,5,1816273,523182399,75,2.18,18.99,77.22,Bajo
+2038,Inestabilidad economica global,12.43,Global,1,2476664,543333489,19,1.09,84.03,83.29,Extincion
+2049,Erupcion supervolcan,18.83,Africa,4,7260781,63762293,78,-0.57,5.87,55.16,Bajo
+2044,Colapso climatico,73.6,Global,2,1914686,679080733,46,-1.81,6.7,25.77,Bajo
+2050,Impacto de asteroide,2.58,Africa,2,611842,90818455,54,2.18,2.56,51.56,Alto
+2037,Megaterremoto,18.47,Africa,6,4723535,431242858,10,3.5,74.55,63.89,Bajo
+2030,Impacto de asteroide,30.55,America del Norte,1,6159916,799521626,77,3.06,3.91,8.82,Alto
+2029,Tormenta solar masiva,55.2,Europa,10,143118,733487598,25,3.02,0.42,17.55,Medio
+2043,Colapso climatico,34.35,America del Norte,8,464797,520036902,73,1.0,53.38,15.87,Extincion
+2030,Erupcion supervolcan,7.56,Sudamerica,3,8988679,68142859,13,4.19,74.56,6.99,Extincion
+2027,Impacto de asteroide,88.96,Europa,5,1897449,96108677,34,1.92,74.78,30.46,Medio
+2040,Megaterremoto,50.25,America del Norte,2,2203195,57083542,41,2.68,37.59,91.04,Bajo
+2043,Erupcion supervolcan,0.51,Global,5,7100740,384449020,80,1.64,39.1,98.79,Extincion
+2038,Colapso climatico,45.09,Africa,3,3925934,465871328,96,2.7,0.82,14.02,Bajo
+2027,Inteligencia artificial descontrolada,7.56,Global,3,6712690,308510228,81,-0.59,38.3,76.11,Medio
+2037,Inestabilidad economica global,4.04,Europa,9,6382642,31614908,57,-0.51,9.01,37.07,Extincion
+2039,Inestabilidad economica global,5.12,Sudamerica,3,6187086,881061643,42,1.25,82.21,44.86,Medio
+2033,Erupcion supervolcan,87.42,Europa,5,8973319,72485224,91,2.34,81.34,38.97,Bajo
+2038,Guerra nuclear,78.52,Oceania,2,3127303,523942515,74,2.39,40.25,86.44,Extincion
+2046,Guerra nuclear,61.64,Oceania,10,3219847,249345513,74,-1.61,67.21,54.82,Medio
+2036,Megaterremoto,98.12,Oceania,2,9437155,427917056,19,4.64,43.58,13.86,Extincion
+2048,Pandemia global,6.31,Global,9,2531997,317880868,85,0.73,62.26,43.05,Bajo
+2033,Inteligencia artificial descontrolada,70.24,Global,1,8482391,162779227,41,-0.71,37.91,25.64,Extincion
+2042,Fallo de la biosfera,34.97,America del Norte,3,745878,587929774,69,3.31,77.99,3.08,Alto
+2025,Impacto de asteroide,87.21,Oceania,8,790502,98533033,76,4.08,17.4,25.75,Bajo
+2040,Pandemia global,1.4,Sudamerica,8,8786017,65669271,89,3.83,70.5,16.54,Extincion
+2035,Fallo de la biosfera,98.44,Sudamerica,3,4281832,595766181,90,2.3,47.63,16.27,Extincion
+2041,Inestabilidad economica global,9.7,Sudamerica,9,3658635,859013432,59,-1.84,19.12,11.3,Medio
+2049,Fallo de la biosfera,63.6,Sudamerica,6,4633409,374481247,49,3.48,3.67,46.94,Medio
+2047,Fallo de la biosfera,87.94,Africa,3,555314,821649394,88,-1.8,10.22,75.36,Extincion
+2032,Tormenta solar masiva,23.96,Global,6,9176216,893165921,38,0.97,21.11,77.88,Extincion
+2049,Fallo de la biosfera,61.7,Global,1,9228851,143668566,1,3.43,32.34,77.2,Bajo
+2035,Pandemia global,21.38,Oceania,10,1985997,329189911,2,1.7,60.12,87.51,Medio
+2026,Guerra nuclear,84.48,Africa,5,3232813,709308537,73,3.19,70.25,38.65,Alto
+2043,Guerra nuclear,66.81,America del Norte,3,3734283,714923815,38,-1.65,54.43,67.11,Bajo
+2032,Colapso climatico,17.41,Africa,10,6352338,165186297,49,3.1,75.59,45.78,Medio
+2039,Guerra nuclear,12.75,Global,3,8093158,38637151,61,1.44,8.75,73.15,Extincion
+2028,Impacto de asteroide,71.53,Sudamerica,7,6414124,689753657,78,0.8,5.96,60.79,Medio
+2039,Guerra nuclear,2.28,Sudamerica,2,1860282,933221248,43,-0.95,86.89,26.84,Alto
+2032,Pandemia global,44.29,America del Norte,3,2733863,890914790,57,0.36,17.11,99.6,Extincion
+2025,Inestabilidad economica global,66.11,Asia,7,3757379,739871913,28,-0.05,74.0,39.68,Bajo
+2047,Inteligencia artificial descontrolada,59.72,Europa,8,1099856,204045508,1,3.05,83.85,83.16,Bajo
+2049,Impacto de asteroide,19.18,Africa,10,5172931,316270397,100,-1.71,74.07,5.9,Bajo
+2039,Impacto de asteroide,44.4,Sudamerica,1,8963344,582346226,22,0.23,53.16,21.12,Bajo
+2043,Inteligencia artificial descontrolada,19.02,Oceania,7,3221646,433698345,40,3.05,29.63,64.07,Bajo
+2030,Tormenta solar masiva,11.82,America del Norte,4,7565233,56373443,59,-1.13,16.83,16.01,Extincion
+2045,Pandemia global,85.76,Asia,6,167664,540166206,99,-1.13,17.51,0.87,Extincion
+2049,Impacto de asteroide,40.02,Europa,2,7000150,38104550,94,-1.48,57.66,0.01,Extincion
+2032,Fallo de la biosfera,84.21,Oceania,3,4467640,71264804,52,-0.08,46.86,66.31,Extincion
+2028,Inteligencia artificial descontrolada,19.39,America del Norte,8,2552642,620553662,43,-1.3,83.38,88.31,Alto
+2037,Inestabilidad economica global,27.85,Global,2,7877533,282252174,40,2.63,41.27,18.07,Bajo
+2049,Pandemia global,22.44,Global,9,7360200,432364714,82,0.41,57.08,64.6,Alto
+2039,Inestabilidad economica global,90.77,Sudamerica,2,1086077,28405575,7,0.41,69.74,95.41,Alto
+2044,Impacto de asteroide,92.82,Africa,4,7546343,14336487,91,4.0,15.35,78.88,Alto
+2043,Impacto de asteroide,2.02,Africa,10,7874083,82380230,4,4.17,72.67,33.29,Alto
+2040,Colapso climatico,55.47,Oceania,7,9758491,672814005,15,-0.73,84.07,41.44,Alto
+2032,Colapso climatico,65.69,Africa,6,3733877,784516681,2,1.95,4.88,51.34,Alto
+2044,Inestabilidad economica global,54.2,Oceania,2,3164784,858739997,11,1.71,86.57,26.69,Alto
+2037,Inestabilidad economica global,39.32,Oceania,3,6624497,659392204,11,3.94,53.35,11.9,Alto
+2037,Megaterremoto,47.19,Sudamerica,3,6210602,660569016,7,2.1,67.13,34.13,Extincion
+2029,Inestabilidad economica global,9.65,Asia,3,9458799,16714183,97,4.65,67.4,61.1,Bajo
+2038,Pandemia global,71.65,America del Norte,10,9665291,221839118,58,4.28,58.35,4.06,Alto
+2049,Pandemia global,60.93,Oceania,2,3042045,806636425,83,1.21,66.09,6.62,Medio
+2036,Inteligencia artificial descontrolada,19.52,Europa,10,6184455,857157376,14,4.58,30.18,29.63,Extincion
+2044,Inteligencia artificial descontrolada,59.35,Oceania,6,4241493,559139634,44,-1.28,51.63,20.14,Medio
+2042,Inteligencia artificial descontrolada,5.58,Oceania,9,2362114,981796612,4,-0.3,20.37,82.22,Medio
+2031,Pandemia global,61.73,Asia,5,5009553,656764005,10,3.47,18.32,45.79,Medio
+2042,Erupcion supervolcan,81.25,Oceania,8,7047546,979750804,5,2.73,69.87,20.07,Bajo
+2026,Impacto de asteroide,94.28,Global,2,1948966,374023930,56,-0.41,13.13,50.36,Extincion
+2047,Guerra nuclear,88.7,Oceania,4,2007717,308883540,74,2.38,20.33,73.77,Alto
+2025,Guerra nuclear,40.58,Global,9,7071066,886355487,80,4.99,84.26,6.8,Medio
+2033,Pandemia global,36.68,Africa,7,8627765,75693002,89,2.98,81.77,81.63,Bajo
+2041,Pandemia global,61.5,Asia,8,7590349,507492323,54,3.94,7.45,58.74,Medio
+2037,Inestabilidad economica global,69.69,Global,3,4250929,570743449,89,2.68,49.19,11.07,Medio
+2033,Impacto de asteroide,6.56,Sudamerica,4,9615218,24756642,66,3.33,71.81,57.26,Bajo
+2046,Inestabilidad economica global,18.73,Europa,7,8834078,816375950,22,1.51,38.05,50.55,Extincion
+2031,Megaterremoto,39.06,Sudamerica,1,5552864,506743021,64,2.19,39.44,75.18,Extincion
+2035,Fallo de la biosfera,68.1,Oceania,9,3128192,759641073,39,4.38,72.4,13.72,Medio
+2028,Inteligencia artificial descontrolada,58.12,Africa,3,3791135,729022786,45,4.01,57.36,12.69,Extincion
+2041,Inestabilidad economica global,78.76,Europa,5,3192387,742720912,27,-0.15,87.49,49.4,Bajo
+2043,Pandemia global,76.97,Africa,4,3447696,202581075,43,1.67,46.99,36.96,Bajo
+2037,Colapso climatico,12.32,Africa,6,2495794,423926114,19,2.95,22.41,34.84,Extincion
+2030,Pandemia global,83.27,Europa,4,2734455,672913515,37,-1.01,13.65,68.88,Alto
+2044,Fallo de la biosfera,88.76,America del Norte,4,9927465,414448391,29,4.8,27.69,85.74,Alto
+2049,Impacto de asteroide,84.99,Europa,9,3082506,466865871,10,4.2,83.12,8.42,Alto
+2039,Erupcion supervolcan,23.06,Oceania,3,4915452,368430299,4,2.98,21.59,48.88,Bajo
+2038,Guerra nuclear,26.27,Africa,2,4789843,165934148,28,-1.57,55.72,0.53,Bajo
+2040,Guerra nuclear,80.78,Europa,10,11506,958782313,2,1.5,0.5,43.95,Medio
+2028,Inteligencia artificial descontrolada,17.02,America del Norte,5,8534230,917911994,70,-0.66,6.42,53.66,Alto
+2030,Inteligencia artificial descontrolada,25.52,Oceania,2,2160478,668397383,82,4.19,16.17,67.41,Medio
+2038,Megaterremoto,23.35,Sudamerica,1,854019,303556605,51,2.36,26.98,46.69,Bajo
+2026,Inteligencia artificial descontrolada,52.94,Asia,3,3083828,257648678,36,0.41,14.86,43.92,Medio
+2050,Fallo de la biosfera,25.5,Oceania,5,374329,942617789,4,2.91,71.5,66.85,Medio
+2029,Guerra nuclear,64.72,Asia,4,4256663,853639611,37,4.43,70.63,15.52,Extincion
+2034,Inteligencia artificial descontrolada,4.23,Europa,5,2124006,34310505,88,0.77,0.42,1.19,Extincion
+2048,Fallo de la biosfera,82.45,Africa,1,27632,997025284,51,-0.53,58.31,49.94,Medio
